@@ -1,0 +1,31 @@
+Introduction
+
+Check version of python: type python --version
+-> Expected result: Python 2.7.xx:: anaconda 4.1.1 (64bit)
+Check version of pip: type pip --version
+-> Expected result: pip 9.0.3 from c:\xxxx (python 2.7)
+
+
+Change/edit configuration
+Tools->Preferences->ObjectInspector Enable Automatic corrections
+IPython->console->Automatic, later on may be to Tkinter
+
+ctrl+i -> information about a function, e.g. ctrl+i savefig(..)
+ctrl+. -> kills and restarts kernel
+After import&run of a script:
+dir (function), e.g. dir (plt)  or dir (np) lists all functions of the library plott or numpy
+
+
+
+
+Lecture 1
+
+a) start with hello.py and play with text and numbers
+
+b) continue to plot plasma frequency -> r_fp.py play with color, log-scales, labelsizes, format for saving
+
+c) continue to plot driftrate of a type II burst -> dfdt_V1.py and play with grid, log-scales, 
+   set additional symbols, compare different formats for saving (quality and size)
+
+d) Create a powerpoint presentation and put two images onto a slide
+See how different the image is presented with/without parameter: bbox_inches = 'tight'
