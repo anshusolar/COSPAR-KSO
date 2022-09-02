@@ -1,0 +1,934 @@
+2010_events\20100101events.txt  #Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+2010_events\20100102events.txt->4320 +     0858   ////      0859  LEA  C   RSP  025-180   III/1                 
+2010_events\20100102events.txt->4340 +     0957   ////      0957  LEA  C   RSP  074-173   III/1                 
+2010_events\20100102events.txt->4350       1115   ////      1118  SVI  C   RSP  044-083   III/1                 
+2010_events\20100102events.txt->4380       1558   ////      1604  SAG  C   RSP  025-124   III/1                 
+2010_events\20100102events.txt->4400 +     2318   ////      2319  LEA  C   RSP  025-165   III/1             1039
+2010_events\20100103events.txt->4410 +     0038   ////      0038  CUL  C   RSP  20-180    III/1                 
+2010_events\20100103events.txt->4450 +     0613   ////      0613  CUL  C   RSP  23-100    III/1                 
+2010_events\20100103events.txt->4520 +     1733   ////      1733  SAG  C   RSP  068-180   III/1                 
+2010_events\20100104events.txt->4600       2155   ////      2155  CUL  C   RSP  35-180    III/1                 
+2010_events\20100104events.txt->4610       2244   ////      2244  PAL  U   RSP  025-111   III/1                 
+2010_events\20100104events.txt->4620 +     2246   ////      2246  CUL  C   RSP  20-180    III/1                 
+2010_events\20100105events.txt->4630 +     0433   ////      0433  LEA  C   RSP  025-091   III/1                 
+2010_events\20100105events.txt->4650 +     0934   ////      0934  LEA  C   RSP  025-180   III/2                 
+2010_events\20100110events.txt->4910       1645   ////      1646  SAG  C   RSP  025-180   III/1                 
+2010_events\20100111events.txt->5020 +     1413   ////      1419  SAG  C   RSP  025-172   III/2                 
+2010_events\20100112events.txt->5070 +     1759   ////      1800  PAL  C   RSP  025-077   III/1                 
+2010_events\20100113events.txt->5090       1330   ////      1331  SAG  C   RSP  030-179   III/1                 
+2010_events\20100113events.txt->5100       1338   ////      1331  SAG  C   RSP  030-179   III/1                 
+2010_events\20100114events.txt->5220 +     0738   ////      0738  CUL  C   RSP  20-65     III/1                 
+2010_events\20100114events.txt->5240       1228   ////      1229  SVI  C   RSP  025-081   III/2                 
+2010_events\20100114events.txt->5260       2046   ////      2046  PAL  C   RSP  025-180   III/1                 
+2010_events\20100114events.txt->5270 +     2047   ////      2048  CUL  C   RSP  18-180    III/2                 
+2010_events\20100114events.txt->5290       2217   ////      2217  CUL  C   RSP  25-90     III/1                 
+2010_events\20100114events.txt->5300 +     2306   ////      2306  CUL  C   RSP  20-150    III/1                 
+2010_events\20100117events.txt->5440 +     2153   ////      2153  CUL  C   RSP  20-90     III/1                 
+2010_events\20100118events.txt->5470 +     0647   ////      0647  CUL  C   RSP  25-150    III/1                 
+2010_events\20100118events.txt->5500       1211   ////      1212  SVI  C   RSP  025-064   III/1                 
+2010_events\20100118events.txt->5510 +     1413   ////      1414  SAG  C   RSP  025-180   III/2                 
+2010_events\20100118events.txt->5520 +     1821   ////      1822  SAG  C   RSP  025-155   III/2                 
+2010_events\20100118events.txt->5530 +     1835   ////      1836  PAL  C   RSP  025-044   III/1                 
+2010_events\20100118events.txt->5560       2340   ////      2342  CUL  C   RSP  20-140    III/1                 
+2010_events\20100118events.txt->5570       2348   ////      2348  CUL  C   RSP  57-90     III/1                 
+2010_events\20100118events.txt->5580       2350   ////      2350  CUL  C   RSP  40-90     III/1                 
+2010_events\20100118events.txt->5590       2354   ////      2354  CUL  C   RSP  20-90     III/1                 
+2010_events\20100118events.txt->5600       2359   ////      2359  CUL  C   RSP  20-180    III/1                 
+2010_events\20100119events.txt->5690       2031   ////      2031  CUL  C   RSP  23-50     III/1             1041
+2010_events\20100120events.txt->5850       1534   ////      1534  SAG  C   RSP  025-180   III/1                 
+2010_events\20100120events.txt->5900 +     1839   ////      1840  PAL  C   RSP  025-095   III/1                 
+2010_events\20100120events.txt->5910 +     1930   ////      1938  SAG  C   RSP  025-180   III/2                 
+2010_events\20100120events.txt->5920       2053   ////      2054  CUL  C   RSP  30-90     III/1                 
+2010_events\20100121events.txt->5950       0102   ////      0103  CUL  C   RSP  57-140    III/1                 
+2010_events\20100121events.txt->5990       0404   ////      0404  CUL  C   RSP  57-140    III/1                 
+2010_events\20100123events.txt->6160 +     0847   ////      0848  SVI  C   RSP  025-171   III/1                 
+2010_events\20100126events.txt->6290       1703   ////      1707  SAG  U   RSP  025-144   III/1             1042
+2010_events\20100131events.txt->6450       0609   ////      0610  CUL  C   RSP  18-180    III/1                 
+2010_events\20100131events.txt->6460       0633   ////      0633  CUL  C   RSP  30-140    III/1                 
+2010_events\20100202events.txt->6480       0704   ////      0705  CUL  C   RSP  20-130    III/1                 
+2010_events\20100205events.txt->6520       2149   ////      2150  PAL  U   RSP  025-086   III/1                 
+2010_events\20100206events.txt->6560 +     0009   ////      0015  LEA  C   RSP  025-179   III/3                 
+2010_events\20100206events.txt->6570 +     0133   ////      0134  LEA  C   RSP  025-170   III/2                 
+2010_events\20100206events.txt->6580       0633   ////      0651  LEA  C   RSP  025-180   III/1                 
+2010_events\20100206events.txt->6600       0824   ////      0826  SVI  C   RSP  025-150   III/2                 
+2010_events\20100206events.txt->6620       1035   ////      1036  SVI  U   RSP  025-180   III/1                 
+2010_events\20100206events.txt->6650 +     1326   ////      1329  SVI  C   RSP  025-180   III/2                 
+2010_events\20100206events.txt->6720 +     1853   ////      1854  SAG  C   RSP  025-073   III/1             1045
+2010_events\20100206events.txt->6730 +     2023   ////      2024  SAG  C   RSP  025-180   III/2                 
+2010_events\20100206events.txt->6760       2141   ////      2150  PAL  C   RSP  025-089   III/1             1045
+2010_events\20100207events.txt->6810 +     0230   ////      0241  LEA  C   RSP  025-180   III/2             1045
+2010_events\20100207events.txt->6890       0530   ////      0531  CUL  C   RSP  18-110    III/2                 
+2010_events\20100207events.txt->6900       0535   ////      0538  LEA  C   RSP  025-123   III/1                 
+2010_events\20100207events.txt->7140       2001   ////      2001  CUL  C   RSP  20-85     III/1                 
+2010_events\20100207events.txt->7080       2116   ////      2116  CUL  C   RSP  18-180    III/2             1045
+2010_events\20100207events.txt->7150 +     2125   ////      2126  CUL  C   RSP  18-360    III/2                 
+2010_events\20100207events.txt->7100       2143   ////      2143  CUL  C   RSP  50-150    III/1             1045
+2010_events\20100207events.txt->7160       2147   ////      2147  CUL  C   RSP  18-180    III/2                 
+2010_events\20100207events.txt->7170       2149   ////      2151  CUL  C   RSP  18-180    III/1                 
+2010_events\20100207events.txt->7180       2154   ////      2154  CUL  C   RSP  18-140    III/1                 
+2010_events\20100207events.txt->7190       2158   ////      2159  CUL  C   RSP  20-180    III/1                 
+2010_events\20100207events.txt->7200       2221   ////      2222  CUL  C   RSP  30-180    III/1                 
+2010_events\20100207events.txt->7210 +     2228   ////      2232  CUL  C   RSP  18-380    III/2                 
+2010_events\20100207events.txt->7130       2233   ////      2234  CUL  C   RSP  30-170    III/1             1045
+2010_events\20100207events.txt->7220       2243   ////      2243  CUL  C   RSP  20-130    III/1                 
+2010_events\20100207events.txt->7230       2250   ////      2251  CUL  C   RSP  20-140    III/1                 
+2010_events\20100207events.txt->7240       2253   ////      2256  CUL  C   RSP  18-400    III/2                 
+2010_events\20100207events.txt->7260       2307   ////      2308  CUL  C   RSP  20-180    III/1                 
+2010_events\20100207events.txt->7270       2310   ////      2310  CUL  C   RSP  20-150    III/1                 
+2010_events\20100207events.txt->7280       2314   ////      2318  CUL  C   RSP  20-260    III/1                 
+2010_events\20100207events.txt->7290       2347   ////      2352  CUL  C   RSP  18-260    III/1                 
+2010_events\20100208events.txt->7310       0005   ////      0006  CUL  C   RSP  35-180    III/1                 
+2010_events\20100208events.txt->7320       0009   ////      0009  CUL  C   RSP  50-140    III/1                 
+2010_events\20100208events.txt->7330 +     0011   ////      0014  CUL  C   RSP  18-420    III/2             1045
+2010_events\20100208events.txt->7340       0056   ////      0056  LEA  C   RSP  032-121   III/1                 
+2010_events\20100208events.txt->7350       0057   ////      0057  CUL  C   RSP  50-180    III/1                 
+2010_events\20100208events.txt->7360 +     0113   ////      0120  LEA  C   RSP  025-180   III/2             1045
+2010_events\20100208events.txt->7400 +     0231   ////      0232  CUL  C   RSP  18-180    III/1             1045
+2010_events\20100208events.txt->7410 +     0254   ////      0256  CUL  C   RSP  23-180    III/1             1045
+2010_events\20100208events.txt->7420       0304   ////      0304  CUL  C   RSP  23-100    III/1                 
+2010_events\20100208events.txt->7430 +     0313   ////      0316  CUL  C   RSP  18-230    III/1             1045
+2010_events\20100208events.txt->7450 +     0353   ////      0354  LEA  C   RSP  025-166   III/2             1045
+2010_events\20100208events.txt->7460 +     0412   ////      0414  CUL  C   RSP  18-750    III/1             1045
+2010_events\20100208events.txt->7470 +     0422   ////      0427  LEA  C   RSP  025-180   III/1                 
+2010_events\20100208events.txt->7480 +     0515   ////      0520  CUL  C   RSP  20-620    III/1             1045
+2010_events\20100208events.txt->7510 +     0610   ////      0610  CUL  C   RSP  20-750    III/1             1045
+2010_events\20100208events.txt->7540 +     0702   ////      0703  CUL  C   RSP  23-350    III/1             1045
+2010_events\20100208events.txt->7550 +     0739   ////      0743  CUL  C   RSP  18-850    III/2                 
+2010_events\20100208events.txt->7560 +     0749   ////      0749  CUL  C   RSP  70-200    III/1                 
+2010_events\20100208events.txt->7580 +     0911   ////      0919  SVI  C   RSP  025-180   III/2                 
+2010_events\20100208events.txt->7600       1033   ////      1034  SVI  C   RSP  025-037   III/1                 
+2010_events\20100208events.txt->7620       1056   ////      1059  SVI  C   RSP  025-180   III/1                 
+2010_events\20100208events.txt->7680 +     1550   ////      1551  SAG  C   RSP  025-180   III/1             1045
+2010_events\20100208events.txt->7730       1829   ////      1829  PAL  C   RSP  025-060   III/1                 
+2010_events\20100208events.txt->7740       1830   ////      1830  SAG  C   RSP  025-039   III/1                 
+2010_events\20100208events.txt->7790 +     2117   ////      2117  CUL  C   RSP  20-180    III/1             1045
+2010_events\20100209events.txt->7830 +     0103   ////      0104  CUL  C   RSP  18-180    III/1                 
+2010_events\20100209events.txt->7850 +     0224   ////      0224  CUL  C   RSP  23-180    III/1                 
+2010_events\20100209events.txt->7870 +     0534   ////      0540  CUL  C   RSP  23-180    III/1                 
+2010_events\20100209events.txt->7950       0717   ////      0717  CUL  C   RSP  20-90     III/1                 
+2010_events\20100209events.txt->7910 +     0939   ////      0941  SVI  C   RSP  025-062   III/2                 
+2010_events\20100210events.txt->7960 +     0012   ////      0014  CUL  C   RSP  18-250    III/1                 
+2010_events\20100210events.txt->7980       0031   ////      0034  CUL  C   RSP  50-140    III/1                 
+2010_events\20100210events.txt->7990       0146   ////      0146  PAL  C   RSP  025-094   III/1                 
+2010_events\20100210events.txt->8010 +     0426   ////      0429  CUL  C   RSP  18-180    III/1                 
+2010_events\20100210events.txt->8020       0508   ////      0510  CUL  C   RSP  18-200    III/1                 
+2010_events\20100210events.txt->8030 +     0550   ////      0554  LEA  C   RSP  025-178   III/2                 
+2010_events\20100210events.txt->8250       0622   ////      0622  CUL  C   RSP  40-180    III/1                 
+2010_events\20100210events.txt->8060       0713   ////      0713  CUL  C   RSP  18-140    III/1             1045
+2010_events\20100210events.txt->8080 +     0723   ////      0730  CUL  C   RSP  18-180    III/1                 
+2010_events\20100210events.txt->8260       0753   ////      0755  CUL  C   RSP  40-130    III/1                 
+2010_events\20100210events.txt->8100       0846   ////      0850  SVI  C   RSP  025-055   III/1                 
+2010_events\20100210events.txt->8110       1113   ////      1113  SVI  C   RSP  025-083   III/1                 
+2010_events\20100210events.txt->8130 +     1203   ////      1204  SVI  C   RSP  025-180   III/2                 
+2010_events\20100210events.txt->8140       1238   ////      1240  SVI  U   RSP  025-041   III/1                 
+2010_events\20100210events.txt->8150       1248   ////      1255  SVI  C   RSP  025-138   III/2                 
+2010_events\20100210events.txt->8160 +     1353   ////      1354  SVI  C   RSP  025-158   III/2                 
+2010_events\20100210events.txt->8170 +     1423   ////      1424  SAG  C   RSP  025-171   III/1                 
+2010_events\20100210events.txt->8200       1732   ////      1732  PAL  C   RSP  029-154   III/1                 
+2010_events\20100210events.txt->8210       1733   ////      1733  SAG  C   RSP  025-180   III/1                 
+2010_events\20100210events.txt->8230       1836   ////      1837  SAG  U   RSP  025-084   III/1                 
+2010_events\20100210events.txt->8240 +     1902   ////      1902  SAG  C   RSP  025-148   III/1                 
+2010_events\20100210events.txt->8270       2127   ////      2127  CUL  C   RSP  20-80     III/1                 
+2010_events\20100210events.txt->8280       2131   ////      2132  CUL  C   RSP  50-90     III/1                 
+2010_events\20100210events.txt->8290       2158   ////      2158  CUL  C   RSP  45-90     III/1                 
+2010_events\20100210events.txt->8300 +     2214   ////      2214  CUL  C   RSP  18-280    III/2                 
+2010_events\20100210events.txt->8310       2226   ////      2226  CUL  C   RSP  23-90     III/1                 
+2010_events\20100210events.txt->8320       2234   ////      2234  CUL  C   RSP  35-90     III/1                 
+2010_events\20100210events.txt->8340       2325   ////      2330  CUL  C   RSP  20-180    III/1                 
+2010_events\20100210events.txt->8350       2335   ////      2335  CUL  C   RSP  18-260    III/2                 
+2010_events\20100211events.txt->8400       0000   ////      0000  CUL  C   RSP  100-600   III/1                 
+2010_events\20100211events.txt->8410       0002   ////      0002  CUL  C   RSP  18-200    III/1                 
+2010_events\20100211events.txt->8420       0014   ////      0015  CUL  C   RSP  30-180    III/1                 
+2010_events\20100211events.txt->8380 +     0119   ////      0120  CUL  C   RSP  18-260    III/1                 
+2010_events\20100211events.txt->8430       0315   ////      0315  PAL  C   RSP  030-180   III/1                 
+2010_events\20100211events.txt->8440 +     0316   ////      0320  CUL  C   RSP  18-200    III/1                 
+2010_events\20100211events.txt->8450 +     0353   ////      0355  CUL  C   RSP  20-180    III/1                 
+2010_events\20100211events.txt->8460       0553   ////      0600  LEA  C   RSP  025-151   III/1                 
+2010_events\20100211events.txt->8470 +     0736   ////      0737  CUL  C   RSP  20-100    III/1                 
+2010_events\20100211events.txt->8610       0740   ////      0740  CUL  C   RSP  23-90     III/1                 
+2010_events\20100211events.txt->8620       0751   ////      0751  CUL  C   RSP  35-90     III/1                 
+2010_events\20100211events.txt->8480 +     0816   ////      0819  LEA  C   RSP  025-063   III/1                 
+2010_events\20100211events.txt->8490       0958   ////      0958  SVI  C   RSP  025-070   III/1                 
+2010_events\20100211events.txt->8500       1157   ////      1158  SVI  C   RSP  025-037   III/1                 
+2010_events\20100211events.txt->8510       1308   ////      1309  SVI  C   RSP  025-088   III/1                 
+2010_events\20100211events.txt->8520 +     1412   ////      1419  SVI  C   RSP  025-180   III/2                 
+2010_events\20100211events.txt->8560       1930   ////      1930  SAG  U   RSP  025-118   III/1             1046
+2010_events\20100211events.txt->8570 +     2013   ////      2013  PAL  C   RSP  025-051   III/1                 
+2010_events\20100211events.txt->8630       2014   ////      2014  CUL  C   RSP  20-100    III/1                 
+2010_events\20100211events.txt->8640       2100   ////      2108  CUL  C   RSP  18-100    III/1                 
+2010_events\20100211events.txt->8580 +     2103   ////      2107  PAL  C   RSP  025-086   III/1                 
+2010_events\20100211events.txt->8650       2224   ////      2224  CUL  C   RSP  40-90     III/1                 
+2010_events\20100211events.txt->8660       2325   ////      2325  CUL  C   RSP  30-130    III/1                 
+2010_events\20100212events.txt->8670 +     0047   ////      0056  CUL  C   RSP  18-180    III/1                 
+2010_events\20100212events.txt->8680 +     0211   ////      0216  CUL  C   RSP  18-180    III/1                 
+2010_events\20100212events.txt->8690       0401   ////      0402  LEA  C   RSP  025-180   III/1                 
+2010_events\20100212events.txt->8700       0402   ////      0402  CUL  C   RSP  18-180    III/1                 
+2010_events\20100212events.txt->8710       0453   ////      0517  LEA  C   RSP  025-158   III/1                 
+2010_events\20100212events.txt->8720       0606   ////      0607  SVI  C   RSP  025-084   III/2                 
+2010_events\20100212events.txt->8750       0721   ////      0726  SVI  C   RSP  025-180   III/3             1046
+2010_events\20100212events.txt->8780 +     0937   ////      0942  SVI  C   RSP  025-180   III/2                 
+2010_events\20100212events.txt->8830       1304   ////      1304  SVI  C   RSP  025-043   III/1                 
+2010_events\20100212events.txt->8840       1453   ////      1453  SAG  U   RSP  025-084   III/1                 
+2010_events\20100212events.txt->8870       1657   ////      1705  SAG  U   RSP  025-088   III/1                 
+2010_events\20100212events.txt->8880 +     1743   ////      1745  SAG  C   RSP  025-180   III/1                 
+2010_events\20100212events.txt->8900 +     1834   ////      1835  SAG  C   RSP  025-170   III/1                 
+2010_events\20100212events.txt->8910 +     1858   ////      1907  PAL  C   RSP  025-122   III/1                 
+2010_events\20100212events.txt->8930       2149   ////      2159  SAG  C   RSP  025-172   III/1                 
+2010_events\20100212events.txt->8940 +     2244   ////      2244  LEA  C   RSP  025-134   III/1             1045
+2010_events\20100213events.txt->8960       0142   ////      0151  LEA  C   RSP  025-180   III/2             1046
+2010_events\20100213events.txt->8970       0244   ////      0244  LEA  C   RSP  025-180   III/1                 
+2010_events\20100213events.txt->9000 +     1020   ////      1021  LEA  C   RSP  025-180   III/1                 
+2010_events\20100213events.txt->9020       1040   ////      1040  SVI  C   RSP  025-065   III/1                 
+2010_events\20100213events.txt->9040       1103   ////      1103  SVI  C   RSP  025-082   III/1                 
+2010_events\20100213events.txt->9050       1240   ////      1250  SVI  C   RSP  025-135   III/2             1048
+2010_events\20100213events.txt->9070 +     1510   ////      1511  SAG  C   RSP  025-129   III/1                 
+2010_events\20100213events.txt->9080       1634   ////      1634  SAG  C   RSP  025-082   III/1                 
+2010_events\20100213events.txt->9100 +     1959   ////      1959  PAL  C   RSP  025-180   III/1             1046
+2010_events\20100213events.txt->9130       2216   ////      2216  PAL  C   RSP  028-085   III/1                 
+2010_events\20100214events.txt->9240       0202   ////      0202  CUL  C   RSP  20-90     III/1                 
+2010_events\20100214events.txt->9250       0224   ////      0225  CUL  C   RSP  20-100    III/1                 
+2010_events\20100214events.txt->9260       0337   ////      0340  CUL  C   RSP  20-180    III/1                 
+2010_events\20100214events.txt->9150       0504   ////      0504  LEA  C   RSP  026-054   III/1                 
+2010_events\20100214events.txt->9160 +     0700   ////      0701  LEA  C   RSP  044-097   III/1                 
+2010_events\20100214events.txt->9170 +     0725   ////      0740  LEA  C   RSP  029-111   III/1                 
+2010_events\20100214events.txt->9180       0907   ////      0908  SVI  C   RSP  025-039   III/1             1048
+2010_events\20100214events.txt->9190       1121   ////      1122  SVI  C   RSP  025-083   III/1                 
+2010_events\20100214events.txt->9270 +     2308   ////      2308  LEA  C   RSP  025-100   III/1                 
+2010_events\20100215events.txt->9290       0849   ////      0853  SVI  C   RSP  025-044   III/1                 
+2010_events\20100215events.txt->9340       1657   ////      1700  SAG  U   RSP  025-085   III/1                 
+2010_events\20100215events.txt->9360       1815   ////      1815  PAL  U   RSP  025-047   III/1                 
+2010_events\20100215events.txt->9370       1825   ////      1826  PAL  U   RSP  025-045   III/1                 
+2010_events\20100215events.txt->9380 +     1915   ////      1915  PAL  U   RSP  025-055   III/1                 
+2010_events\20100215events.txt->9400       2123   ////      2125  CUL  C   RSP  20-90     III/1                 
+2010_events\20100215events.txt->9390 +     2126   ////      2126  SAG  U   RSP  025-061   III/1                 
+2010_events\20100215events.txt->9410       2127   ////      2127  CUL  C   RSP  18-140    III/1                 
+2010_events\20100215events.txt->9420       2220   ////      2220  CUL  C   RSP  50-90     III/1                 
+2010_events\20100216events.txt->9430 +     0006   ////      0007  CUL  C   RSP  20-90     III/1                 
+2010_events\20100216events.txt->9440       0030   ////      0030  PAL  U   RSP  025-082   III/1                 
+2010_events\20100216events.txt->9450       0031   ////      0031  CUL  C   RSP  18-180    III/1                 
+2010_events\20100216events.txt->9460       0044   ////      0044  CUL  C   RSP  23-80     III/1                 
+2010_events\20100216events.txt->9470       0233   ////      0235  CUL  C   RSP  18-100    III/1                 
+2010_events\20100216events.txt->9480       0237   ////      0238  CUL  C   RSP  20-150    III/1                 
+2010_events\20100216events.txt->9500 +     1411   ////      1412  SVI  C   RSP  025-064   III/2                 
+2010_events\20100216events.txt->9510 +     1452   ////      1500  SVI  C   RSP  025-075   III/1                 
+2010_events\20100216events.txt->9520 +     1907   ////      1913  SAG  C   RSP  025-180   III/1                 
+2010_events\20100217events.txt->9550 +     1208   ////      1208  SVI  C   RSP  025-084   III/1                 
+2010_events\20100217events.txt->9560 +     1226   ////      1226  SAG  C   RSP  025-103   III/1                 
+2010_events\20100218events.txt->9600 +     0702   ////      0702  LEA  C   RSP  025-064   III/1                 
+2010_events\20100218events.txt->9620 +     1224   ////      1224  SAG  C   RSP  025-162   III/2                 
+2010_events\20100218events.txt->9630 +     1356   ////      1356  SAG  C   RSP  025-143   III/1                 
+2010_events\20100218events.txt->9640       1723   ////      1726  SAG  C   RSP  025-160   III/2                 
+2010_events\20100218events.txt->9650       1826   ////      1826  PAL  C   RSP  025-084   III/1                 
+2010_events\20100218events.txt->9660       1827   ////      1827  SAG  U   RSP  025-067   III/1                 
+2010_events\20100218events.txt->9670 +     1903   ////      1904  SAG  C   RSP  025-162   III/1                 
+2010_events\20100218events.txt->9680       2023   ////      2024  SAG  C   RSP  025-077   III/1                 
+2010_events\20100225events.txt->9830 +     0810   ////      0810  LEA  C   RSP  029-060   III/1                 
+2010_events\20100225events.txt->9840 +     0855   ////      0903  LEA  C   RSP  029-097   III/1                 
+2010_events\20100225events.txt->9860       1413   ////      1417  SVI  C   RSP  025-180   III/2                 
+2010_events\20100225events.txt->9870 +     2014   ////      2015  PAL  C   RSP  025-180   III/1                 
+2010_events\20100225events.txt->9890       2053   ////      2053  PAL  C   RSP  025-044   III/1                 
+2010_events\20100225events.txt->9900 +     2054   ////      2054  CUL  C   RSP  20-90     III/1                 
+2010_events\20100226events.txt->9910       0202   ////      0202  PAL  C   RSP  025-048   III/1                 
+2010_events\20100226events.txt->9920 +     0203   ////      0203  LEA  C   RSP  029-144   III/1                 
+2010_events\20100226events.txt->9940       1830   ////      1830  PAL  C   RSP  025-097   III/1                 
+2010_events\20100226events.txt->9950       1831   ////      1831  SAG  U   RSP  025-044   III/1                 
+2010_events\20100226events.txt->9960       1941   ////      1942  SAG  U   RSP  025-084   III/1                 
+2010_events\20100227events.txt->9970       0908   ////      0908  SVI  C   RSP  025-048   III/1                 
+2010_events\20100227events.txt->9980 +     1455   ////      1456  SAG  C   RSP  025-180   III/1                 
+2010_events\20100227events.txt->9990 +     1552   ////      1556  SAG  C   RSP  025-084   III/2                 
+2010_events\20100227events.txt->  20       1703   ////      1705  SAG  C   RSP  025-180   III/2                 
+2010_events\20100228events.txt-> 100       0241   ////      0245  CUL  C   RSP  18-180    III/1                 
+2010_events\20100228events.txt->  50 +     0808   ////      0812  LEA  C   RSP  025-141   III/1                 
+2010_events\20100228events.txt->  60 +     0909   ////      0909  LEA  C   RSP  025-114   III/1                 
+2010_events\20100228events.txt->  70 +     1010   ////      1018  SVI  C   RSP  025-083   III/1                 
+2010_events\20100228events.txt->  80       1249   ////      1249  SVI  C   RSP  025-042   III/1                 
+2010_events\20100228events.txt-> 110       2111   ////      2111  CUL  C   RSP  18-90     III/1                 
+2010_events\20100228events.txt-> 120       2145   ////      2145  CUL  C   RSP  20-80     III/1                 
+2010_events\20100228events.txt-> 130       2225   ////      2231  CUL  C   RSP  18-150    III/1                 
+2010_events\20100301events.txt-> 140       0320   ////      0321  CUL  C   RSP  20-90     III/1                 
+2010_events\20100302events.txt-> 180 +     1945   ////      1945  PAL  U   RSP  025-051   III/1                 
+2010_events\20100302events.txt-> 170       2017   ////      2017  SAG  U   RSP  025-047   III/1                 
+2010_events\20100302events.txt-> 190       2018   ////      2018  CUL  C   RSP  23-90     III/1                 
+2010_events\20100304events.txt-> 260 +     1330   ////      1337  SVI  C   RSP  025-180   III/3             1052
+2010_events\20100312events.txt-> 560       0417   ////      0417  CUL  C   RSP  23-100    III/1                 
+2010_events\20100314events.txt-> 860       0340   ////      0343  CUL  C   RSP  30-100    III/1                 
+2010_events\20100314events.txt-> 870       0447   ////      0453  CUL  C   RSP  20-180    III/1                 
+2010_events\20100314events.txt-> 790 +     0600   ////      0600  LEA  C   RSP  025-136   III/1                 
+2010_events\20100314events.txt-> 820       0945   ////      0945  SVI  C   RSP  025-041   III/1                 
+2010_events\20100314events.txt-> 850 +     1742   ////      1743  SAG  C   RSP  025-180   III/1                 
+2010_events\20100314events.txt-> 880       2032   ////      2040  CUL  C   RSP  40-90     III/1                 
+2010_events\20100314events.txt-> 890       2300   ////      2302  CUL  C   RSP  30-90     III/1                 
+2010_events\20100315events.txt-> 900 +     0136   ////      0136  LEA  C   RSP  025-180   III/1                 
+2010_events\20100315events.txt-> 910 +     0218   ////      0219  PAL  C   RSP  025-099   III/1                 
+2010_events\20100315events.txt-> 960       0747   ////      0749  CUL  C   RSP  20-180    III/1                 
+2010_events\20100315events.txt-> 940       0748   ////      0749  SVI  C   RSP  025-063   III/1                 
+2010_events\20100318events.txt->1030       0016   ////      0016  LEA  C   RSP  025-074   III/1                 
+2010_events\20100318events.txt->1040       0017   ////      0017  CUL  C   RSP  18-180    III/1                 
+2010_events\20100318events.txt->1070 +     1119   ////      1121  SVI  C   RSP  075-180   III/1                 
+2010_events\20100318events.txt->1130 +     2305   ////      2307  CUL  C   RSP  20-180    III/1             1054
+2010_events\20100319events.txt->1170       0847   ////      0848  SVI  C   RSP  025-048   III/1                 
+2010_events\20100319events.txt->1180 +     1207   ////      1207  SVI  C   RSP  025-071   III/1                 
+2010_events\20100321events.txt->1270       0910   ////      0915  SVI  C   RSP  025-060   III/1             1056
+2010_events\20100321events.txt->1300       1100   ////      1100  SAG  C   RSP  025-047   III/1                 
+2010_events\20100321events.txt->1340 +     2302   ////      2310  CUL  C   RSP  20-180    III/1                 
+2010_events\20100325events.txt->1540       0124   ////      0125  CUL  C   RSP  60-160    III/1                 
+2010_events\20100325events.txt->1630       0648   ////      0648  CUL  C   RSP  25-140    III/1                 
+2010_events\20100325events.txt->1560       0827   ////      0831  SVI  C   RSP  025-046   III/1                 
+2010_events\20100326events.txt->1650       0013   ////      0013  CUL  C   RSP  20-180    III/1                 
+2010_events\20100326events.txt->1660       0050   ////      0059  CUL  C   RSP  45-180    III/1                 
+2010_events\20100326events.txt->1670       0119   ////      0119  CUL  C   RSP  20-100    III/1                 
+2010_events\20100326events.txt->1690 +     1225   ////      1225  SVI  C   RSP  025-040   III/1                 
+2010_events\20100326events.txt->1700 +     1253   ////      1253  SVI  C   RSP  025-058   III/1                 
+2010_events\20100327events.txt->1750 +     0010   ////      0010  LEA  C   RSP  025-160   III/1                 
+2010_events\20100327events.txt->1810       0938   ////      0938  SVI  C   RSP  025-084   III/1                 
+2010_events\20100327events.txt->1840       1152   ////      1152  SVI  C   RSP  025-053   III/1                 
+2010_events\20100327events.txt->1850       1211   ////      1216  SVI  C   RSP  025-091   III/1                 
+2010_events\20100327events.txt->1870 +     1253   ////      1253  SAG  C   RSP  025-148   III/1                 
+2010_events\20100327events.txt->1890 +     1337   ////      1340  SVI  C   RSP  025-180   III/2                 
+2010_events\20100327events.txt->1900 +     1528   ////      1528  SAG  C   RSP  025-180   III/1                 
+2010_events\20100327events.txt->1920       1844   ////      1845  SAG  U   RSP  025-084   III/2                 
+2010_events\20100327events.txt->1930 +     2157   ////      2201  PAL  C   RSP  025-180   III/1                 
+2010_events\20100328events.txt->2190       0152   ////      0152  CUL  C   RSP  20-90     III/1                 
+2010_events\20100328events.txt->2200       0250   ////      0252  CUL  C   RSP  40-100    III/1                 
+2010_events\20100328events.txt->2210       0306   ////      0308  CUL  C   RSP  60-170    III/1                 
+2010_events\20100328events.txt->2220       0324   ////      0324  CUL  C   RSP  45-160    III/1                 
+2010_events\20100328events.txt->2230       0416   ////      0417  CUL  C   RSP  45-180    III/1                 
+2010_events\20100328events.txt->2240       0514   ////      0514  CUL  C   RSP  100-180   III/1                 
+2010_events\20100328events.txt->1970 +     0601   ////      0602  CUL  C   RSP  20-180    III/1                 
+2010_events\20100328events.txt->1980       0935   ////      0935  SVI  C   RSP  025-051   III/1             1057
+2010_events\20100328events.txt->1990       0950   ////      0953  SVI  C   RSP  025-038   III/1                 
+2010_events\20100328events.txt->2000       1023   ////      1029  SVI  C   RSP  025-180   III/2                 
+2010_events\20100328events.txt->2250       2038   ////      2038  CUL  C   RSP  35-80     III/1                 
+2010_events\20100328events.txt->2160 +     2118   ////      2120  CUL  C   RSP  20-180    III/1                 
+2010_events\20100328events.txt->2180       2257   ////      2258  CUL  C   RSP  20-200    III/2                 
+2010_events\20100329events.txt->2270       0058   ////      0058  CUL  C   RSP  35-180    III/1                 
+2010_events\20100329events.txt->2280       0216   ////      0217  CUL  C   RSP  20-100    III/1                 
+2010_events\20100329events.txt->2290 +     0357   ////      0357  LEA  C   RSP  025-179   III/1                 
+2010_events\20100329events.txt->2300       0509   ////      0510  LEA  C   RSP  025-100   III/1                 
+2010_events\20100329events.txt->2310       0952   ////      0956  SVI  C   RSP  025-049   III/1                 
+2010_events\20100329events.txt->2320 +     1312   ////      1319  SVI  C   RSP  025-048   III/1                 
+2010_events\20100329events.txt->2330 +     1447   ////      1448  SVI  C   RSP  025-086   III/1                 
+2010_events\20100329events.txt->2360       1624   ////      1624  SVI  C   RSP  035-060   III/1                 
+2010_events\20100330events.txt->2460 +     0308   ////      0309  CUL  C   RSP  18-190    III/3                 
+2010_events\20100330events.txt->2530 +     1232   ////      1232  SAG  C   RSP  025-042   III/1                 
+2010_events\20100330events.txt->2540       1323   ////      1323  SAG  C   RSP  025-039   III/1                 
+2010_events\20100330events.txt->2560 +     1537   ////      1537  SAG  C   RSP  025-170   III/1                 
+2010_events\20100330events.txt->2570       2204   ////      2204  CUL  C   RSP  30-80     III/1                 
+2010_events\20100331events.txt->2590       0045   ////      0046  CUL  C   RSP  30-200    III/1                 
+2010_events\20100331events.txt->2600       0449   ////      0449  LEA  C   RSP  074-101   III/1                 
+2010_events\20100331events.txt->2610 +     0723   ////      0723  SVI  C   RSP  025-076   III/1                 
+2010_events\20100331events.txt->2640 +     1249   ////      1250  SAG  C   RSP  025-050   III/1                 
+2010_events\20100331events.txt->2650 +     1535   ////      1536  SVI  C   RSP  025-180   III/1                 
+2010_events\20100331events.txt->2670       1849   ////      1850  SAG  C   RSP  025-150   III/1                 
+2010_events\20100403events.txt->2710       1034   ////      1036  SVI  C   RSP  025-048   III/1                 
+2010_events\20100405events.txt->2750       1018   ////      1019  SVI  C   RSP  025-180   III/1                 
+2010_events\20100405events.txt->2790 +     1931   ////      1932  SAG  U   RSP  031-070   III/1                 
+2010_events\20100406events.txt->2810       0801   ////      0801  SVI  C   RSP  025-060   III/1                 
+2010_events\20100406events.txt->2820       0859   ////      0859  SVI  C   RSP  025-049   III/1                 
+2010_events\20100406events.txt->2830       1008   ////      1008  SVI  C   RSP  025-040   III/1                 
+2010_events\20100406events.txt->2840 +     1152   ////      1153  SAG  C   RSP  025-180   III/1                 
+2010_events\20100406events.txt->2850 +     1226   ////      1227  SAG  C   RSP  025-050   III/1                 
+2010_events\20100406events.txt->2860 +     1308   ////      1310  SVI  C   RSP  025-042   III/1                 
+2010_events\20100413events.txt->2960       0019   ////      0019  CUL  C   RSP  20-80     III/1                 
+2010_events\20100413events.txt->2920 +     0440   ////      0440  LEA  C   RSP  025-180   III/1             1062
+2010_events\20100413events.txt->2940       0722   ////      0722  SVI  C   RSP  025-055   III/1                 
+2010_events\20100413events.txt->2950 +     1415   ////      1423  SAG  C   RSP  025-141   III/1                 
+2010_events\20100420events.txt->2990 +     0902   ////      0902  LEA  C   RSP  025-111   III/1                 
+2010_events\20100428events.txt->3010       2344   ////      2344  CUL  C   RSP  100-180   III/1                 
+2010_events\20100429events.txt->3020 +     0614   ////      0619  LEA  C   RSP  025-180   III/1                 
+2010_events\20100429events.txt->3030 +     0722   ////      0722  SVI  C   RSP  025-125   III/2                 
+2010_events\20100429events.txt->3040 +     0854   ////      0854  SVI  C   RSP  039-072   III/1                 
+2010_events\20100429events.txt->3050 +     1358   ////      1400  SVI  C   RSP  025-180   III/1                 
+2010_events\20100429events.txt->3070 +     1524   ////      1524  SVI  C   RSP  039-140   III/1                 
+2010_events\20100501events.txt->3140       1719   ////      1719  SAG  U   RSP  025-083   III/1                 
+2010_events\20100501events.txt->3150       2006   ////      2009  SAG  U   RSP  025-060   III/1                 
+2010_events\20100501events.txt->3160       2224   ////      2225  SAG  U   RSP  028-142   III/1                 
+2010_events\20100502events.txt->3170       0104   ////      0104  PAL  C   RSP  025-086   III/1                 
+2010_events\20100502events.txt->3180       0105   ////      0105  LEA  C   RSP  025-165   III/2                 
+2010_events\20100502events.txt->3250       0106   ////      0106  CUL  C   RSP  57-160    III/1                 
+2010_events\20100502events.txt->3190       0400   ////      0400  LEA  C   RSP  025-146   III/2                 
+2010_events\20100502events.txt->3260       0401   ////      0401  CUL  C   RSP  57-180    III/1                 
+2010_events\20100503events.txt->3290 +     0529   ////      0529  LEA  C   RSP  025-097   III/2                 
+2010_events\20100503events.txt->3340       2246   ////      2246  PAL  C   RSP  025-091   III/1                 
+2010_events\20100503events.txt->3350 +     2248   ////      2248  CUL  C   RSP  57-160    III/1                 
+2010_events\20100504events.txt->3430       0632   ////      0633  CUL  C   RSP  57-100    III/1                 
+2010_events\20100504events.txt->3370 +     0916   ////      0916  SVI  C   RSP  025-067   III/2                 
+2010_events\20100508events.txt->3620       0458   ////      0502  SVI  C   RSP  025-180   III/2             1069
+2010_events\20100508events.txt->3670       1508   ////      1509  SVI  C   RSP  025-058   III/1                 
+2010_events\20100509events.txt->3710       2007   ////      2007  SAG  C   RSP  025-072   III/1                 
+2010_events\20100509events.txt->3720       2008   ////      2008  PAL  C   RSP  025-062   III/1                 
+2010_events\20100524events.txt->3860 +     2320   ////      2320  LEA  C   RSP  025-167   III/2                 
+2010_events\20100525events.txt->3880 +     1307   ////      1308  SAG  U   RSP  025-084   III/1                 
+2010_events\20100526events.txt->3900       0300   ////      0302  CUL  C   RSP  57-180    III/1                 
+2010_events\20100529events.txt->3920 +     1254   ////      1255  SAG  C   RSP  025-084   III/1                 
+2010_events\20100606events.txt->4050       0059   ////      0059  LEA  C   RSP  031-175   III/1                 
+2010_events\20100606events.txt->4080       0100   ////      0100  CUL  C   RSP  57-200    III/1                 
+2010_events\20100606events.txt->4070 +     1032   ////      1033  SVI  C   RSP  025-180   III/1                 
+2010_events\20100608events.txt->4120 +     1144   ////      1144  SAG  C   RSP  025-068   III/1                 
+2010_events\20100608events.txt->4130 +     1337   ////      1343  SAG  C   RSP  025-064   III/1             1078
+2010_events\20100609events.txt->4160       0454   ////      0455  SVI  C   RSP  025-042   III/1                 
+2010_events\20100609events.txt->4170       0528   ////      0528  SVI  U   RSP  043-075   III/1             1078
+2010_events\20100610events.txt->4250 +     0120   ////      0120  LEA  C   RSP  025-180   III/1                 
+2010_events\20100610events.txt->4260       0121   ////      0121  CUL  C   RSP  57-200    III/1                 
+2010_events\20100611events.txt->4290 +     1418   ////      1418  SVI  C   RSP  025-058   III/1                 
+2010_events\20100611events.txt->4300 +     2037   ////      2042  PAL  C   RSP  032-049   III/1                 
+2010_events\20100611events.txt->4310       2323   ////      2323  LEA  C   RSP  025-090   III/1                 
+2010_events\20100612events.txt->4350 +     0401   ////      0401  SVI  C   RSP  025-180   III/2             1080
+2010_events\20100612events.txt->4370 +     0912   ////      0916  SVI  C   RSP  025-180   III/2             1081
+2010_events\20100612events.txt->4380 +     1218   ////      1219  SAG  C   RSP  025-068   III/1                 
+2010_events\20100612events.txt->4390       2005   ////      2005  PAL  U   RSP  025-053   III/1                 
+2010_events\20100612events.txt->4400       2006   ////      2006  SAG  U   RSP  025-059   III/1                 
+2010_events\20100612events.txt->4420       2346   ////      2346  PAL  U   RSP  025-085   III/1             1081
+2010_events\20100613events.txt->4480 +     0632   ////      0633  LEA  C   RSP  029-099   III/1                 
+2010_events\20100613events.txt->4500 +     0705   ////      0707  SVI  C   RSP  025-144   III/2             1080
+2010_events\20100613events.txt->4510       0733   ////      0734  SVI  C   RSP  025-083   III/1             1081
+2010_events\20100614events.txt->4630 +     0047   ////      0049  LEA  C   RSP  025-180   III/1             1081
+2010_events\20100617events.txt->4670       1030   ////      1030  SVI  C   RSP  025-051   III/1             1082
+2010_events\20100627events.txt->4830 +     0549   ////      0550  SVI  C   RSP  025-081   III/1                 
+2010_events\20100629events.txt->4880       0505   ////      0505  CUL  C   RSP  57-180    III/1                 
+2010_events\20100629events.txt->4890       2146   ////      2146  CUL  C   RSP  57-180    III/1                 
+2010_events\20100629events.txt->4900       2147   ////      2148  CUL  C   RSP  57-200    III/2                 
+2010_events\20100629events.txt->4910       2238   ////      2238  CUL  C   RSP  57-180    III/1                 
+2010_events\20100701events.txt->4920 +     0032   ////      0033  PAL  C   RSP  025-180   III/1                 
+2010_events\20100701events.txt->4930       0919   ////      0920  SVI  C   RSP  025-166   III/1                 
+2010_events\20100702events.txt->4950       0337   ////      0337  CUL  C   RSP  57-170    III/1                 
+2010_events\20100702events.txt->4960       0652   ////      0652  SVI  C   RSP  025-064   III/1                 
+2010_events\20100702events.txt->4970       0912   ////      0912  SVI  C   RSP  025-148   III/2                 
+2010_events\20100702events.txt->4980 +     1028   ////      1028  SVI  C   RSP  025-058   III/2                 
+2010_events\20100702events.txt->4990 +     1201   ////      1201  SVI  C   RSP  025-125   III/2                 
+2010_events\20100702events.txt->5010       1829   ////      1830  PAL  C   RSP  025-064   III/1                 
+2010_events\20100702events.txt->5020       1831   ////      1831  SAG  C   RSP  025-055   III/1                 
+2010_events\20100702events.txt->5030       2029   ////      2029  PAL  C   RSP  025-047   III/1                 
+2010_events\20100702events.txt->5040       2030   ////      2030  SAG  U   RSP  025-070   III/1                 
+2010_events\20100703events.txt->5050 +     0612   ////      0612  SVI  C   RSP  025-076   III/1                 
+2010_events\20100703events.txt->5060 +     1058   ////      1059  SAG  U   RSP  025-070   III/2                 
+2010_events\20100710events.txt->5260       2005   ////      2006  PAL  C   RSP  025-180   III/1             1087
+2010_events\20100711events.txt->5290 +     1405   ////      1409  SAG  C   RSP  025-180   III/2                 
+2010_events\20100713events.txt->5360       0001   ////      0001  CUL  C   RSP  57-160    III/1                 
+2010_events\20100715events.txt->5450 +     0636   ////      0636  SVI  C   RSP  025-073   III/1                 
+2010_events\20100719events.txt->5570       2326   ////      2327  LEA  C   RSP  052-141   III/1                 
+2010_events\20100720events.txt->5580       0052   ////      0052  LEA  C   RSP  025-043   III/1                 
+2010_events\20100720events.txt->5590 +     0211   ////      0214  CUL  C   RSP  57-180    III/1                 
+2010_events\20100720events.txt->5720       0556   ////      0558  CUL  C   RSP  57-180    III/1                 
+2010_events\20100720events.txt->5620 +     0558   ////      0558  SVI  C   RSP  025-084   III/2                 
+2010_events\20100720events.txt->5630 +     0716   ////      0718  SVI  C   RSP  025-180   III/1                 
+2010_events\20100725events.txt->6150 +     1151   ////      1151  SVI  C   RSP  025-180   III/1                 
+2010_events\20100726events.txt->6190 +     0034   ////      0035  CUL  C   RSP  57-300    III/1             1089
+2010_events\20100726events.txt->6200       0143   ////      0143  CUL  C   RSP  57-180    III/1                 
+2010_events\20100726events.txt->6210       0214   ////      0214  CUL  C   RSP  100-170   III/1                 
+2010_events\20100726events.txt->6220       0415   ////      0415  CUL  C   RSP  60-90     III/1             1091
+2010_events\20100726events.txt->6230 +     0437   ////      0438  SVI  C   RSP  059-180   III/1                 
+2010_events\20100726events.txt->6240 +     0456   ////      0456  SVI  C   RSP  036-093   III/1             1091
+2010_events\20100726events.txt->6250 +     0534   ////      0543  SVI  C   RSP  053-180   III/1                 
+2010_events\20100726events.txt->6260       0543   ////      0543  LEA  C   RSP  114-158   III/1                 
+2010_events\20100726events.txt->6350       0703   ////      0703  CUL  C   RSP  57-180    III/1                 
+2010_events\20100726events.txt->6300 +     1421   ////      1422  SVI  C   RSP  025-150   III/1                 
+2010_events\20100726events.txt->6320 +     1528   ////      1532  SVI  C   RSP  025-143   III/1                 
+2010_events\20100726events.txt->6360       2352   ////      2352  CUL  C   RSP  57-160    III/1                 
+2010_events\20100727events.txt->6370       0115   ////      0115  CUL  C   RSP  57-80     III/1             1089
+2010_events\20100727events.txt->6410 +     0808   ////      0808  SVI  C   RSP  025-136   III/1                 
+2010_events\20100727events.txt->6420       1013   ////      1014  SVI  C   RSP  025-054   III/1                 
+2010_events\20100727events.txt->6430       1033   ////      1040  SVI  C   RSP  025-180   III/1                 
+2010_events\20100727events.txt->6440 +     1145   ////      1145  SAG  C   RSP  025-180   III/1                 
+2010_events\20100727events.txt->6460       1500   ////      1505  SAG  C   RSP  025-061   III/1                 
+2010_events\20100727events.txt->6470       1641   ////      1641  SVI  C   RSP  025-084   III/1                 
+2010_events\20100727events.txt->6480       1652   ////      1653  SVI  U   RSP  031-079   III/1                 
+2010_events\20100727events.txt->6500       2227   ////      2227  CUL  C   RSP  57-130    III/1                 
+2010_events\20100727events.txt->6510       2308   ////      2308  CUL  C   RSP  57-100    III/1                 
+2010_events\20100727events.txt->6520 +     2317   ////      2318  CUL  C   RSP  57-100    III/1                 
+2010_events\20100728events.txt->6540       0044   ////      0044  LEA  C   RSP  025-097   III/1                 
+2010_events\20100728events.txt->6550       0045   ////      0045  CUL  C   RSP  57-130    III/1                 
+2010_events\20100728events.txt->6560       0215   ////      0215  LEA  C   RSP  025-095   III/1                 
+2010_events\20100728events.txt->6570       0216   ////      0216  CUL  C   RSP  57-120    III/1                 
+2010_events\20100728events.txt->6580       0229   ////      0229  LEA  C   RSP  025-096   III/1                 
+2010_events\20100728events.txt->6590       0230   ////      0230  CUL  C   RSP  57-80     III/1                 
+2010_events\20100728events.txt->6660       0633   ////      0633  CUL  C   RSP  57-90     III/1                 
+2010_events\20100728events.txt->6610       1026   ////      1026  SVI  C   RSP  025-048   III/1                 
+2010_events\20100728events.txt->6620 +     1123   ////      1123  SAG  C   RSP  025-049   III/1                 
+2010_events\20100728events.txt->6640 +     1843   ////      1843  SAG  U   RSP  025-049   III/1                 
+2010_events\20100728events.txt->6670       2209   ////      2209  CUL  C   RSP  57-100    III/1                 
+2010_events\20100728events.txt->6680       2304   ////      2304  CUL  C   RSP  57-80     III/1                 
+2010_events\20100728events.txt->6690       2345   ////      2345  CUL  C   RSP  57-100    III/1                 
+2010_events\20100729events.txt->6710       0405   ////      0405  LEA  C   RSP  025-051   III/1                 
+2010_events\20100729events.txt->6720       0406   ////      0406  CUL  C   RSP  57-90     III/1                 
+2010_events\20100729events.txt->6730 +     0536   ////      0539  SVI  C   RSP  025-180   III/1                 
+2010_events\20100729events.txt->6740 +     0916   ////      0917  SVI  C   RSP  025-086   III/2                 
+2010_events\20100729events.txt->6750       0944   ////      0944  SVI  C   RSP  025-151   III/1                 
+2010_events\20100729events.txt->6760 +     1021   ////      1022  SVI  C   RSP  025-079   III/1                 
+2010_events\20100729events.txt->6770 +     1124   ////      1124  SVI  C   RSP  025-134   III/1                 
+2010_events\20100729events.txt->6780       1200   ////      1200  SAG  C   RSP  025-084   III/1                 
+2010_events\20100729events.txt->6790 +     1233   ////      1237  SVI  C   RSP  025-180   III/1                 
+2010_events\20100729events.txt->6800 +     1339   ////      1344  SVI  C   RSP  025-085   III/2                 
+2010_events\20100729events.txt->6810 +     1411   ////      1412  SAG  C   RSP  025-180   III/2                 
+2010_events\20100729events.txt->6820 +     1827   ////      1828  COM  C   RSP  30-80     III/1             1092
+2010_events\20100730events.txt->6840 +     0153   ////      0153  PAL  C   RSP  025-095   III/1                 
+2010_events\20100730events.txt->6860 +     0431   ////      0432  LEA  C   RSP  025-146   III/1                 
+2010_events\20100730events.txt->6870 +     0503   ////      0506  LEA  C   RSP  025-175   III/1                 
+2010_events\20100730events.txt->6880 +     0634   ////      0637  SVI  C   RSP  025-083   III/1                 
+2010_events\20100730events.txt->6890 +     0744   ////      0751  SVI  C   RSP  025-180   III/1             1092
+2010_events\20100730events.txt->6900       0756   ////      0805  SVI  C   RSP  025-086   III/1                 
+2010_events\20100730events.txt->6910       0845   ////      0846  SVI  C   RSP  025-121   III/1                 
+2010_events\20100730events.txt->6930       1401   ////      1401  SVI  C   RSP  025-155   III/2                 
+2010_events\20100730events.txt->6940       1736   ////      1738  SAG  U   RSP  025-056   III/1                 
+2010_events\20100730events.txt->6950       1901   ////      1905  SAG  U   RSP  025-083   III/1                 
+2010_events\20100730events.txt->6980 +     2211   ////      2212  SAG  U   RSP  025-072   III/1                 
+2010_events\20100730events.txt->7000 +     2252   ////      2253  PAL  C   RSP  025-051   III/1                 
+2010_events\20100731events.txt->7010       0017   ////      0017  LEA  C   RSP  025-087   III/1                 
+2010_events\20100731events.txt->7020       0118   ////      0126  LEA  C   RSP  025-145   III/1                 
+2010_events\20100731events.txt->7050       0841   ////      0841  SVI  C   RSP  025-078   III/1                 
+2010_events\20100731events.txt->7060       1052   ////      1058  SVI  C   RSP  025-052   III/1                 
+2010_events\20100731events.txt->7080       1137   ////      1140  SVI  C   RSP  025-151   III/1                 
+2010_events\20100731events.txt->7090 +     1224   ////      1226  SAG  C   RSP  025-046   III/1                 
+2010_events\20100731events.txt->7100 +     1507   ////      1507  SVI  C   RSP  025-151   III/1                 
+2010_events\20100731events.txt->7110       1631   ////      1633  SAG  C   RSP  025-042   III/1                 
+2010_events\20100731events.txt->7160 +     2230   ////      2231  COM  C   RSP  025-084   III/1                 
+2010_events\20100731events.txt->7180       2315   ////      2317  SAG  C   RSP  025-068   III/1                 
+2010_events\20100801events.txt->7380       0008   ////      0008  CUL  C   RSP  57-90     III/1                 
+2010_events\20100801events.txt->7390       0209   ////      0211  CUL  C   RSP  57-150    III/1                 
+2010_events\20100801events.txt->7400       0409   ////      0409  CUL  C   RSP  57-90     III/1                 
+2010_events\20100801events.txt->7410       0602   ////      0606  CUL  C   RSP  57-180    III/1                 
+2010_events\20100801events.txt->7200       0605   ////      0605  LEA  C   RSP  025-170   III/1                 
+2010_events\20100801events.txt->7220       0806   ////      0814  SVI  C   RSP  025-142   III/1                 
+2010_events\20100801events.txt->7270       1016   ////      1016  SAG  C   RSP  025-180   III/1                 
+2010_events\20100801events.txt->7280 +     1146   ////      1147  SVI  C   RSP  025-180   III/2                 
+2010_events\20100801events.txt->7290       1216   ////      1217  SVI  C   RSP  025-131   III/1                 
+2010_events\20100801events.txt->7310       1415   ////      1418  SVI  C   RSP  025-180   III/2                 
+2010_events\20100801events.txt->7330       1618   ////      1622  SVI  C   RSP  025-081   III/1                 
+2010_events\20100801events.txt->7340       1730   ////      1731  SAG  U   RSP  025-054   III/1                 
+2010_events\20100801events.txt->7360       2022   ////      2022  PAL  C   RSP  025-053   III/1                 
+2010_events\20100801events.txt->7420       2122   ////      2124  CUL  C   RSP  57-140    III/1                 
+2010_events\20100801events.txt->7430       2133   ////      2136  CUL  C   RSP  57-140    III/1                 
+2010_events\20100802events.txt->7440 +     0101   ////      0102  LEA  C   RSP  025-180   III/2                 
+2010_events\20100802events.txt->7450       0228   ////      0228  PAL  C   RSP  025-180   III/1                 
+2010_events\20100802events.txt->7460 +     0229   ////      0229  LEA  C   RSP  025-180   III/1                 
+2010_events\20100802events.txt->7470 +     0354   ////      0400  LEA  C   RSP  025-161   III/1                 
+2010_events\20100802events.txt->7480 +     0359   ////      0400  CUL  C   RSP  57-150    III/1                 
+2010_events\20100802events.txt->7500       0725   ////      0725  LEA  C   RSP  025-026   III/1                 
+2010_events\20100802events.txt->7510       0735   ////      0736  LEA  C   RSP  025-180   III/1                 
+2010_events\20100802events.txt->7530       0917   ////      0918  SVI  C   RSP  025-054   III/1                 
+2010_events\20100802events.txt->7570 +     1209   ////      1210  SAG  C   RSP  025-146   III/1                 
+2010_events\20100802events.txt->7670       1655   ////      1655  SVI  C   RSP  025-153   III/1                 
+2010_events\20100802events.txt->7710       1717   ////      1724  SVI  C   RSP  025-159   III/1             1092
+2010_events\20100802events.txt->7750       2114   ////      2114  CUL  C   RSP  57-150    III/1                 
+2010_events\20100802events.txt->7760       2200   ////      2200  CUL  C   RSP  57-160    III/1                 
+2010_events\20100802events.txt->7740 +     2214   ////      2214  PAL  C   RSP  030-180   III/1                 
+2010_events\20100802events.txt->7770       2228   ////      2230  CUL  C   RSP  57-90     III/1                 
+2010_events\20100803events.txt->7780 +     0136   ////      0145  LEA  C   RSP  025-180   III/1                 
+2010_events\20100803events.txt->7790       0208   ////      0208  LEA  C   RSP  025-164   III/1                 
+2010_events\20100803events.txt->7800       0218   ////      0223  LEA  C   RSP  025-178   III/1                 
+2010_events\20100803events.txt->7810       0235   ////      0237  LEA  C   RSP  027-051   III/1                 
+2010_events\20100803events.txt->7820 +     0309   ////      0309  CUL  C   RSP  57-260    III/3                 
+2010_events\20100803events.txt->7830       0333   ////      0334  LEA  C   RSP  027-044   III/1                 
+2010_events\20100803events.txt->7840       0400   ////      0400  LEA  C   RSP  028-090   III/1                 
+2010_events\20100803events.txt->7850       0504   ////      0504  CUL  C   RSP  57-180    III/3                 
+2010_events\20100803events.txt->7920       1701   ////      1701  PAL  C   RSP  025-180   III/1                 
+2010_events\20100803events.txt->8010       2054   ////      2054  CUL  C   RSP  57-90     III/1                 
+2010_events\20100803events.txt->8020       2108   ////      2110  CUL  C   RSP  57-140    III/1                 
+2010_events\20100803events.txt->8030       2241   ////      2242  CUL  C   RSP  57-140    III/3                 
+2010_events\20100804events.txt->8170       0546   ////      0546  CUL  C   RSP  57-90     III/1                 
+2010_events\20100804events.txt->8180       0603   ////      0603  CUL  C   RSP  57-110    III/1                 
+2010_events\20100804events.txt->8070       0751   ////      0755  SVI  C   RSP  025-083   III/2                 
+2010_events\20100804events.txt->8190       2206   ////      2207  CUL  C   RSP  57-120    III/1                 
+2010_events\20100804events.txt->8200       2318   ////      2318  CUL  C   RSP  57-180    III/1                 
+2010_events\20100805events.txt->8240       0059   ////      0059  CUL  C   RSP  57-180    III/1                 
+2010_events\20100805events.txt->8250       0134   ////      0135  CUL  C   RSP  57-180    III/1                 
+2010_events\20100805events.txt->8260       0316   ////      0316  CUL  C   RSP  57-130    III/1                 
+2010_events\20100805events.txt->8270       0411   ////      0412  CUL  C   RSP  57-180    III/1                 
+2010_events\20100805events.txt->8330       0559   ////      0559  CUL  C   RSP  57-180    III/1                 
+2010_events\20100805events.txt->8340       0629   ////      0629  CUL  C   RSP  57-90     III/1                 
+2010_events\20100805events.txt->8280 +     1109   ////      1109  SAG  C   RSP  025-151   III/2                 
+2010_events\20100805events.txt->8290       1239   ////      1240  SVI  C   RSP  025-047   III/1                 
+2010_events\20100805events.txt->8310       2140   ////      2140  PAL  C   RSP  025-087   III/1                 
+2010_events\20100806events.txt->8370       0319   ////      0319  CUL  C   RSP  57-100    III/1                 
+2010_events\20100806events.txt->8380       0619   ////      0619  SVI  C   RSP  035-074   III/1                 
+2010_events\20100806events.txt->8390 +     0714   ////      0716  SVI  U   RSP  031-062   III/1                 
+2010_events\20100806events.txt->8400 +     0753   ////      0753  SVI  C   RSP  025-062   III/1                 
+2010_events\20100806events.txt->8410 +     0841   ////      0842  SVI  C   RSP  025-035   III/1                 
+2010_events\20100806events.txt->8440 +     1606   ////      1607  SVI  C   RSP  025-079   III/1                 
+2010_events\20100807events.txt->8470 +     0510   ////      0512  SVI  C   RSP  025-180   III/2                 
+2010_events\20100807events.txt->8480       0951   ////      0951  SVI  C   RSP  025-042   III/1                 
+2010_events\20100807events.txt->8490 +     1357   ////      1405  SVI  C   RSP  025-055   III/1                 
+2010_events\20100807events.txt->8500       1456   ////      1457  SVI  C   RSP  025-082   III/1                 
+2010_events\20100808events.txt->8570       0713   ////      0900  LEA  U   RSP  025-030   III/1                 
+2010_events\20100808events.txt->8580       0858   ////      0859  SVI  C   RSP  025-040   III/1                 
+2010_events\20100808events.txt->8590       1222   ////      1223  SVI  C   RSP  025-050   III/1                 
+2010_events\20100808events.txt->8620       2221   ////      2222  SAG  C   RSP  025-054   III/1                 
+2010_events\20100809events.txt->8640       0346   ////      0346  LEA  C   RSP  075-147   III/1                 
+2010_events\20100809events.txt->8650       0347   ////      0347  CUL  C   RSP  57-180    III/1                 
+2010_events\20100809events.txt->8660       0659   ////      0659  SVI  C   RSP  025-031   III/1                 
+2010_events\20100809events.txt->8670       0722   ////      0722  SVI  C   RSP  025-050   III/1                 
+2010_events\20100809events.txt->8680 +     1049   ////      1049  SVI  C   RSP  025-180   III/2                 
+2010_events\20100809events.txt->8690       1414   ////      1419  SAG  U   RSP  025-046   III/1                 
+2010_events\20100809events.txt->8700       1610   ////      1610  SAG  U   RSP  025-035   III/1                 
+2010_events\20100809events.txt->8720       2118   ////      2118  CUL  C   RSP  57-85     III/1                 
+2010_events\20100810events.txt->8730       0104   ////      0105  CUL  C   RSP  57-180    III/1                 
+2010_events\20100810events.txt->8750       0939   ////      0939  SVI  C   RSP  025-036   III/1                 
+2010_events\20100818events.txt->2910       2226   ////      2227  CUL  C   RSP  57-90     III/1             1100
+2010_events\20100821events.txt->2920       0713   ////      0714  SVI  C   RSP  025-083   III/1                 
+2010_events\20100825events.txt->2930       0413   ////      0413  PAL  C   RSP  084-180   III/1                 
+2010_events\20100825events.txt->2960       0414   ////      0414  CUL  C   RSP  057-330   III/1                 
+2010_events\20100825events.txt->2940       0414   ////      0414  LEA  C   RSP  056-180   III/1                 
+2010_events\20100827events.txt->3090 +     2037   ////      2040  PAL  C   RSP  031-071   III/1                 
+2010_events\20100828events.txt->3130 +     0722   ////      0723  SVI  C   RSP  025-069   III/1                 
+2010_events\20100828events.txt->3150 +     1448   ////      1449  SVI  C   RSP  025-082   III/1                 
+2010_events\20100829events.txt->3160       0932   ////      0932  SVI  U   RSP  025-048   III/1                 
+2010_events\20100830events.txt->3170 +     1157   ////      1157  SAG  C   RSP  029-044   III/1                 
+2010_events\20100830events.txt->3190 +     1505   ////      1505  SAG  C   RSP  025-180   III/1                 
+2010_events\20100830events.txt->3210       1627   ////      1627  SVI  C   RSP  025-054   III/1                 
+2010_events\20100830events.txt->3220 +     1912   ////      1915  PAL  C   RSP  025-101   III/1                 
+2010_events\20100831events.txt->3230       0238   ////      0238  CUL  C   RSP  057-140   III/1                 
+2010_events\20100831events.txt->3240       0238   ////      0239  LEA  C   RSP  025-142   III/1                 
+2010_events\20100831events.txt->3260       1837   ////      1837  PAL  C   RSP  025-096   III/1                 
+2010_events\20100831events.txt->3270       1838   ////      1839  SAG  C   RSP  025-153   III/1                 
+2010_events\20100831events.txt->3280 +     1925   ////      1926  SAG  C   RSP  025-180   III/2                 
+2010_events\20100831events.txt->3290 +     2050   ////      2053  SAG  C   RSP  025-180   III/1                 
+2010_events\20100831events.txt->3300 +     2131   ////      2135  PAL  C   RSP  025-180   III/2                 
+2010_events\20100901events.txt->3340 +     0835   ////      0835  LEA  C   RSP  042-177   III/1                 
+2010_events\20100901events.txt->3350 +     1529   ////      1529  SAG  C   RSP  025-147   III/1                 
+2010_events\20100902events.txt->3380       0034   ////      0034  CUL  C   RSP  110-190   III/1                 
+2010_events\20100902events.txt->3360       0034   ////      0034  LEA  U   RSP  111-180   III/1                 
+2010_events\20100902events.txt->3370       0838   ////      0838  SVI  C   RSP  025-040   III/1                 
+2010_events\20100902events.txt->3390 +     1855   ////      1859  SAG  C   RSP  025-083   III/2                 
+2010_events\20100904events.txt->3470 +     0722   ////      0723  SVI  C   RSP  025-060   III/1                 
+2010_events\20100904events.txt->3490       0857   ////      0857  LEA  C   RSP  025-070   III/1                 
+2010_events\20100904events.txt->3520 +     1621   ////      1621  SAG  C   RSP  025-084   III/1                 
+2010_events\20100904events.txt->3530 +     1729   ////      1730  SAG  C   RSP  025-153   III/1             1105
+2010_events\20100905events.txt->3640       1720   ////      1722  SAG  C   RSP  025-083   III/1                 
+2010_events\20100905events.txt->3650 +     2037   ////      2038  SAG  C   RSP  025-045   III/1                 
+2010_events\20100905events.txt->3680       2334   ////      2335  PAL  C   RSP  025-049   III/1                 
+2010_events\20100906events.txt->3760       2333   ////      2334  LEA  C   RSP  025-050   III/1                 
+2010_events\20100909events.txt->3830 +     0001   ////      0002  PAL  C   RSP  025-131   III/1             1105
+2010_events\20100909events.txt->3850       1549   ////      1549  SAG  C   RSP  025-067   III/1                 
+2010_events\20100909events.txt->3840       1549   ////      1549  SVI  C   RSP  025-065   III/1                 
+2010_events\20100909events.txt->3860       2136   ////      2136  CUL  C   RSP  057-120   III/1                 
+2010_events\20100910events.txt->3920 +     0710   ////      0711  LEA  C   RSP  025-107   III/1                 
+2010_events\20100910events.txt->3940       0814   ////      0815  SVI  U   RSP  025-055   III/1                 
+2010_events\20100910events.txt->3950 +     1332   ////      1332  SAG  C   RSP  025-046   III/1                 
+2010_events\20100910events.txt->3980       2017   ////      2018  SAG  C   RSP  025-055   III/1                 
+2010_events\20100911events.txt->4060 +     1436   ////      1436  SAG  C   RSP  025-038   III/1                 
+2010_events\20100913events.txt->4100       0300   ////      0301  PAL  C   RSP  025-122   III/1                 
+2010_events\20100913events.txt->4110 +     0302   ////      0303  LEA  C   RSP  034-111   III/1                 
+2010_events\20100913events.txt->4120 +     0342   ////      0342  CUL  C   RSP  057-160   III/1                 
+2010_events\20100913events.txt->4130       0342   ////      0342  LEA  C   RSP  033-166   III/1                 
+2010_events\20100913events.txt->4140 +     0555   ////      0556  SVI  C   RSP  025-180   III/1                 
+2010_events\20100913events.txt->4150 +     0618   ////      0618  SVI  C   RSP  035-073   III/1                 
+2010_events\20100913events.txt->4170 +     1448   ////      1450  SAG  C   RSP  025-180   III/1                 
+2010_events\20100913events.txt->4180       2242   ////      2242  CUL  C   RSP  057-150   III/1                 
+2010_events\20100913events.txt->4190       2242   ////      2242  LEA  C   RSP  034-156   III/1                 
+2010_events\20100914events.txt->4200       0404   ////      0404  CUL  C   RSP  057-180   III/1                 
+2010_events\20100914events.txt->4210       0404   ////      0404  LEA  C   RSP  025-180   III/2                 
+2010_events\20100915events.txt->4230       0252   ////      0253  LEA  C   RSP  029-146   III/1                 
+2010_events\20100915events.txt->4380       0439   ////      0439  CUL  C   RSP  057-100   III/1                 
+2010_events\20100915events.txt->4240       0439   ////      0439  LEA  C   RSP  025-113   III/1                 
+2010_events\20100915events.txt->4270       0940   ////      0940  SVI  C   RSP  025-048   III/1                 
+2010_events\20100915events.txt->4280 +     1304   ////      1305  SVI  C   RSP  025-052   III/1                 
+2010_events\20100915events.txt->4360       1926   ////      1926  PAL  C   RSP  025-047   III/1                 
+2010_events\20100915events.txt->4370       1928   ////      1929  SAG  C   RSP  025-061   III/1                 
+2010_events\20100915events.txt->4420       2302   ////      2302  CUL  C   RSP  057-090   III/1                 
+2010_events\20100915events.txt->4430       2318   ////      2318  CUL  C   RSP  057-090   III/1                 
+2010_events\20100915events.txt->4440       2324   ////      2324  CUL  C   RSP  057-160   III/1                 
+2010_events\20100916events.txt->4460       0803   ////      0803  SVI  C   RSP  025-082   III/1                 
+2010_events\20100916events.txt->4480       0943   ////      0944  SVI  C   RSP  025-149   III/2                 
+2010_events\20100916events.txt->4510 +     1130   ////      1137  SVI  C   RSP  025-180   III/1                 
+2010_events\20100916events.txt->4520 +     1301   ////      1301  SVI  C   RSP  025-126   III/2                 
+2010_events\20100916events.txt->4560 +     2228   ////      2228  PAL  C   RSP  025-153   III/1             1106
+2010_events\20100916events.txt->4570       2258   ////      2258  PAL  C   RSP  025-086   III/1                 
+2010_events\20100916events.txt->4590       2259   ////      2259  CUL  C   RSP  057-160   III/1                 
+2010_events\20100916events.txt->4580       2259   ////      2300  LEA  C   RSP  025-157   III/1                 
+2010_events\20100916events.txt->4600       2341   ////      2341  CUL  C   RSP  057-130   III/1                 
+2010_events\20100916events.txt->4610       2348   ////      2348  CUL  C   RSP  057-090   III/1                 
+2010_events\20100917events.txt->4620 +     0016   ////      0018  CUL  C   RSP  057-200   III/3             1108
+2010_events\20100917events.txt->4660       0101   ////      0102  CUL  C   RSP  057-180   III/1                 
+2010_events\20100917events.txt->4640       0119   ////      0120  CUL  C   RSP  057-120   III/1             1108
+2010_events\20100917events.txt->4670 +     0353   ////      0353  CUL  C   RSP  057-180   III/1                 
+2010_events\20100917events.txt->4680       0357   ////      0358  CUL  C   RSP  057-180   III/1                 
+2010_events\20100917events.txt->4690       0422   ////      0422  CUL  C   RSP  057-160   III/1             1106
+2010_events\20100917events.txt->4700 +     0516   ////      0517  LEA  C   RSP  025-097   III/1                 
+2010_events\20100919events.txt->4790 +     0650   ////      0650  CUL  C   RSP  057-160   III/1                 
+2010_events\20100919events.txt->4800 +     0714   ////      0720  LEA  C   RSP  025-095   III/1                 
+2010_events\20100919events.txt->4810 +     0745   ////      0753  LEA  C   RSP  025-111   III/1                 
+2010_events\20100919events.txt->4820 +     0823   ////      0824  SVI  C   RSP  025-119   III/1                 
+2010_events\20100920events.txt->4860       0041   ////      0041  LEA  C   RSP  030-088   III/1                 
+2010_events\20100920events.txt->4870       0302   ////      0303  CUL  C   RSP  057-170   III/1                 
+2010_events\20100920events.txt->4910 +     0739   ////      0739  SVI  C   RSP  025-054   III/1                 
+2010_events\20100920events.txt->4920       0930   ////      0930  SVI  C   RSP  025-046   III/1                 
+2010_events\20100921events.txt->5070       0547   ////      0547  CUL  C   RSP  070-160   III/1                 
+2010_events\20100921events.txt->5000 +     0718   ////      0719  LEA  C   RSP  043-105   III/1                 
+2010_events\20100921events.txt->5020 +     0833   ////      0833  SVI  C   RSP  025-075   III/1                 
+2010_events\20100921events.txt->5050 +     1257   ////      1304  SAG  C   RSP  025-136   III/1                 
+2010_events\20100922events.txt->5080       0038   ////      0038  LEA  C   RSP  040-097   III/1                 
+2010_events\20100922events.txt->5100       0507   ////      0507  LEA  C   RSP  040-061   III/1                 
+2010_events\20100922events.txt->5170       2047   ////      2047  PAL  C   RSP  030-082   III/1                 
+2010_events\20100922events.txt->5180       2047   ////      2047  SAG  C   RSP  030-075   III/1                 
+2010_events\20100924events.txt->5220 +     0655   ////      0656  COM  C   RSP  30-80     III/1             1109
+2010_events\20100924events.txt->5230       0819   ////      0819  SVI  C   RSP  025-041   III/1                 
+2010_events\20100924events.txt->5250 +     1208   ////      1208  SAG  C   RSP  025-146   III/1                 
+2010_events\20100925events.txt->5300       1713   ////      1713  PAL  C   RSP  110-180   III/1                 
+2010_events\20100925events.txt->5320       1716   ////      1716  SAG  C   RSP  115-180   III/1                 
+2010_events\20100926events.txt->5410       1012   ////      1014  SVI  C   RSP  025-124   III/1                 
+2010_events\20100926events.txt->5420 +     1113   ////      1113  SAG  C   RSP  063-180   III/1                 
+2010_events\20100927events.txt->5520       0229   ////      0230  PAL  C   RSP  025-090   III/1                 
+2010_events\20100927events.txt->5530       0232   ////      0232  LEA  C   RSP  029-098   III/1                 
+2010_events\20100927events.txt->5560       2103   ////      2104  PAL  C   RSP  025-151   III/1                 
+2010_events\20100927events.txt->5570       2106   ////      2107  SAG  C   RSP  025-120   III/1                 
+2010_events\20100927events.txt->5590 +     2147   ////      2147  PAL  C   RSP  025-087   III/1             1109
+2010_events\20100928events.txt->5600 +     0051   ////      0053  LEA  C   RSP  032-109   III/1                 
+2010_events\20100928events.txt->5610       0120   ////      0121  LEA  C   RSP  031-060   III/1                 
+2010_events\20100928events.txt->5620       0237   ////      0237  PAL  C   RSP  025-170   III/1             1108
+2010_events\20100928events.txt->5640       0412   ////      0412  LEA  C   RSP  029-053   III/1                 
+2010_events\20100928events.txt->5720       1654   ////      1655  SAG  C   RSP  057-084   III/1                 
+2010_events\20100928events.txt->5730       1656   ////      1657  PAL  C   RSP  075-085   III/1                 
+2010_events\20100930events.txt->5900 +     1213   ////      1213  SVI  C   RSP  025-122   III/2                 
+2010_events\20101003events.txt->6090       0001   ////      0002  LEA  C   RSP  055-175   III/1                 
+2010_events\20101007events.txt->6260 +     0752   ////      0752  LEA  C   RSP  025-089   III/1                 
+2010_events\20101010events.txt->6400 +     2026   ////      2026  PAL  C   RSP  025-087   III/1                 
+2010_events\20101013events.txt->6410       0800   ////      0801  SVI  C   RSP  025-044   III/1                 
+2010_events\20101013events.txt->6470 +     1750   ////      1751  SAG  C   RSP  025-180   III/2                 
+2010_events\20101013events.txt->6480       1932   ////      1932  SAG  C   RSP  025-130   III/2                 
+2010_events\20101013events.txt->6490       1932   ////      1932  PAL  C   RSP  025-117   III/1                 
+2010_events\20101013events.txt->6500 +     2209   ////      2210  CUL  C   RSP  057-130   III/1             1113
+2010_events\20101013events.txt->6510       2216   ////      2216  LEA  C   RSP  025-098   III/1                 
+2010_events\20101013events.txt->6520       2217   ////      2217  CUL  C   RSP  057-100   III/1                 
+2010_events\20101014events.txt->6530 +     0025   ////      0025  LEA  C   RSP  025-180   III/1                 
+2010_events\20101014events.txt->6540 +     0229   ////      0236  LEA  C   RSP  025-109   III/1                 
+2010_events\20101014events.txt->6550       0423   ////      0426  LEA  C   RSP  025-088   III/1                 
+2010_events\20101014events.txt->6560 +     0632   ////      0633  SVI  C   RSP  025-168   III/1                 
+2010_events\20101014events.txt->6570 +     0702   ////      0702  SVI  C   RSP  025-059   III/1                 
+2010_events\20101014events.txt->6580 +     0830   ////      0831  LEA  C   RSP  025-151   III/1                 
+2010_events\20101014events.txt->6600 +     1401   ////      1407  SVI  C   RSP  025-084   III/1             1112
+2010_events\20101014events.txt->6630       2003   ////      2003  SAG  C   RSP  025-082   III/1                 
+2010_events\20101014events.txt->6640       2003   ////      2004  PAL  C   RSP  025-052   III/1                 
+2010_events\20101015events.txt->6670       0914   ////      0916  SVI  C   RSP  025-044   III/1                 
+2010_events\20101016events.txt->6750 +     1945   ////      1947  PAL  C   RSP  025-121   III/1                 
+2010_events\20101017events.txt->6770       0029   ////      0032  CUL  C   RSP  057-200   III/1             1112
+2010_events\20101017events.txt->6850       0050   ////      0051  CUL  C   RSP  057-120   III/1                 
+2010_events\20101017events.txt->6860       0406   ////      0418  CUL  C   RSP  057-180   III/1                 
+2010_events\20101017events.txt->6780       0406   ////      0412  LEA  C   RSP  025-180   III/1                 
+2010_events\20101017events.txt->6800       0855   ////      0856  SVI  C   RSP  025-180   III/1             1112
+2010_events\20101017events.txt->6810       1055   ////      1055  SVI  C   RSP  025-180   III/1             1112
+2010_events\20101017events.txt->6830       1716   ////      1717  SAG  C   RSP  025-043   III/1                 
+2010_events\20101017events.txt->6870       2226   ////      2226  CUL  C   RSP  057-090   III/1                 
+2010_events\20101017events.txt->6880 +     2302   ////      2303  PAL  C   RSP  025-180   III/1                 
+2010_events\20101017events.txt->6900       2315   ////      2317  CUL  C   RSP  057-150   III/1                 
+2010_events\20101017events.txt->6910       2347   ////      2347  CUL  C   RSP  057-090   III/1                 
+2010_events\20101017events.txt->6920       2350   ////      2351  CUL  C   RSP  057-090   III/1                 
+2010_events\20101017events.txt->6930 +     2355   ////      2356  LEA  C   RSP  025-180   III/1                 
+2010_events\20101018events.txt->6960       0028   ////      0032  CUL  C   RSP  057-180   III/1                 
+2010_events\20101018events.txt->6940 +     0028   ////      0032  LEA  C   RSP  025-180   III/1                 
+2010_events\20101018events.txt->6950 +     0102   ////      0112  CUL  C   RSP  057-140   III/1                 
+2010_events\20101018events.txt->6970       0217   ////      0220  CUL  C   RSP  057-150   III/1                 
+2010_events\20101018events.txt->7090       0440   ////      0442  CUL  C   RSP  057-160   III/1                 
+2010_events\20101018events.txt->7100       0448   ////      0450  CUL  C   RSP  057-180   III/1                 
+2010_events\20101018events.txt->7110       0518   ////      0518  CUL  C   RSP  057-100   III/1                 
+2010_events\20101018events.txt->6990 +     0628   ////      0632  LEA  C   RSP  025-180   III/2                 
+2010_events\20101018events.txt->7000       0932   ////      0932  SVI  C   RSP  025-083   III/1                 
+2010_events\20101018events.txt->7040       1319   ////      1319  SVI  C   RSP  025-180   III/2             1112
+2010_events\20101018events.txt->7050 +     1436   ////      1439  SAG  C   RSP  025-170   III/2                 
+2010_events\20101018events.txt->7060       1554   ////      1602  SAG  C   RSP  025-180   III/1             1112
+2010_events\20101018events.txt->7070 +     1808   ////      1812  SAG  C   RSP  025-180   III/1                 
+2010_events\20101019events.txt->7260       0607   ////      0609  CUL  C   RSP  057-180   III/1                 
+2010_events\20101019events.txt->7140 +     0631   ////      0632  LEA  C   RSP  025-107   III/1                 
+2010_events\20101019events.txt->7150 +     0644   ////      0652  LEA  C   RSP  038-121   III/1             1112
+2010_events\20101019events.txt->7160       1241   ////      1244  SVI  C   RSP  025-180   III/2             1115
+2010_events\20101019events.txt->7170       1308   ////      1310  SVI  C   RSP  025-084   III/1                 
+2010_events\20101019events.txt->7190 +     1355   ////      1357  SAG  C   RSP  025-180   III/1                 
+2010_events\20101019events.txt->7250       1945   ////      1946  SAG  C   RSP  025-040   III/1                 
+2010_events\20101019events.txt->7280       2311   ////      2311  PAL  C   RSP  025-057   III/1                 
+2010_events\20101020events.txt->7320       0355   ////      0355  CUL  C   RSP  057-130   III/1                 
+2010_events\20101020events.txt->7330       1149   ////      1150  SVI  C   RSP  025-082   III/1             1112
+2010_events\20101024events.txt->7520 +     0931   ////      0932  LEA  C   RSP  076-167   III/1             1117
+2010_events\20101025events.txt->7630 +     0032   ////      0033  CUL  C   RSP  057-160   III/1                 
+2010_events\20101025events.txt->7640       0423   ////      0423  CUL  C   RSP  057-180   III/1                 
+2010_events\20101026events.txt->7810       0141   ////      0141  CUL  C   RSP  057-180   III/1             1115
+2010_events\20101026events.txt->7820       0157   ////      0157  CUL  C   RSP  057-090   III/1                 
+2010_events\20101026events.txt->7870       0311   ////      0311  CUL  C   RSP  100-170   III/1                 
+2010_events\20101026events.txt->7800 +     0313   ////      0313  COM  C   RSP  30-80     III/1             1115
+2010_events\20101026events.txt->7970       0433   ////      0436  CUL  C   RSP  057-180   III/1                 
+2010_events\20101026events.txt->7850       0433   ////      0434  LEA  C   RSP  075-126   III/1                 
+2010_events\20101026events.txt->7880 +     0513   ////      0517  CUL  C   RSP  060-130   III/1                 
+2010_events\20101026events.txt->7980       0555   ////      0556  CUL  C   RSP  080-200   III/1                 
+2010_events\20101026events.txt->7890 +     0555   ////      0555  LEA  C   RSP  079-180   III/1                 
+2010_events\20101026events.txt->7960       1641   ////      1641  SAG  C   RSP  080-168   III/1                 
+2010_events\20101026events.txt->7990       2030   ////      2030  CUL  C   RSP  057-120   III/1                 
+2010_events\20101027events.txt->8020       0549   ////      0549  CUL  C   RSP  057-090   III/1             1115
+2010_events\20101027events.txt->8030       0607   ////      0608  CUL  C   RSP  070-150   III/1             1117
+2010_events\20101027events.txt->8110       2034   ////      2034  CUL  C   RSP  057-080   III/1                 
+2010_events\20101027events.txt->8120       2124   ////      2124  CUL  C   RSP  057-090   III/1                 
+2010_events\20101027events.txt->8140 +     2310   ////      2310  CUL  C   RSP  057-120   III/1                 
+2010_events\20101028events.txt->8150 +     0354   ////      0355  CUL  C   RSP  057-090   III/1                 
+2010_events\20101028events.txt->8160 +     0838   ////      0838  SVI  C   RSP  025-099   III/2                 
+2010_events\20101102events.txt->8510       0534   ////      0535  CUL  C   RSP  057-150   III/1                 
+2010_events\20101102events.txt->8490 +     0726   ////      0731  LEA  C   RSP  025-104   III/1                 
+2010_events\20101110events.txt->9020 +     0404   ////      0404  LEA  C   RSP  025-108   III/1                 
+2010_events\20101110events.txt->9050 +     1311   ////      1314  SAG  C   RSP  025-180   III/2                 
+2010_events\20101110events.txt->9060 +     1412   ////      1417  SAG  C   RSP  025-180   III/2             1123
+2010_events\20101110events.txt->9110 +     1915   ////      1918  SAG  C   RSP  025-146   III/1                 
+2010_events\20101111events.txt->9150       0239   ////      0240  PAL  C   RSP  025-082   III/1                 
+2010_events\20101111events.txt->9160       0240   ////      0240  LEA  C   RSP  025-061   III/1                 
+2010_events\20101111events.txt->9180       0334   ////      0335  CUL  C   RSP  057-120   III/1                 
+2010_events\20101111events.txt->9170       0334   ////      0335  LEA  C   RSP  025-054   III/1                 
+2010_events\20101111events.txt->9190       0402   ////      0402  CUL  C   RSP  057-150   III/1                 
+2010_events\20101111events.txt->9200       0450   ////      0450  CUL  C   RSP  060-120   III/1             1121
+2010_events\20101111events.txt->9210       0525   ////      0525  CUL  C   RSP  057-130   III/1             1121
+2010_events\20101111events.txt->9380       0546   ////      0555  CUL  C   RSP  057-090   III/1                 
+2010_events\20101111events.txt->9390       0638   ////      0640  CUL  C   RSP  057-090   III/1                 
+2010_events\20101111events.txt->9400       0644   ////      0644  CUL  C   RSP  057-160   III/1                 
+2010_events\20101111events.txt->9220 +     0720   ////      0721  CUL  C   RSP  057-380   III/3             1123
+2010_events\20101111events.txt->9410       0731   ////      0735  CUL  C   RSP  057-180   III/1                 
+2010_events\20101111events.txt->9230       0732   ////      0733  SVI  U   RSP  025-073   III/1                 
+2010_events\20101111events.txt->9240 +     0917   ////      0918  LEA  C   RSP  025-162   III/2                 
+2010_events\20101111events.txt->9250 +     0954   ////      0955  LEA  C   RSP  041-180   III/1             1123
+2010_events\20101111events.txt->9260 +     1014   ////      1015  LEA  C   RSP  025-128   III/1             1123
+2010_events\20101111events.txt->9280 +     1301   ////      1304  SAG  C   RSP  025-180   III/2             1123
+2010_events\20101111events.txt->9320 +     1818   ////      1822  SAG  C   RSP  025-180   III/1                 
+2010_events\20101111events.txt->9330       1857   ////      1901  SAG  C   RSP  025-180   III/2             1124
+2010_events\20101111events.txt->9420       2035   ////      2038  CUL  C   RSP  057-170   III/1                 
+2010_events\20101111events.txt->9360       2050   ////      2052  CUL  C   RSP  057-180   III/1             1124
+2010_events\20101111events.txt->9370       2231   ////      2232  CUL  C   RSP  057-140   III/1                 
+2010_events\20101112events.txt->9430 +     0002   ////      0004  CUL  C   RSP  057-160   III/1                 
+2010_events\20101112events.txt->9440       0045   ////      0045  LEA  C   RSP  045-064   III/1                 
+2010_events\20101112events.txt->9450       0132   ////      0134  CUL  C   RSP  057-420   III/3             1123
+2010_events\20101112events.txt->9460       0140   ////      0140  LEA  C   RSP  039-138   III/1                 
+2010_events\20101112events.txt->9490       0141   ////      0141  CUL  C   RSP  057-150   III/1                 
+2010_events\20101112events.txt->9470 +     0311   ////      0312  LEA  C   RSP  031-110   III/1                 
+2010_events\20101112events.txt->9500 +     0353   ////      0354  CUL  C   RSP  057-400   III/3             1123
+2010_events\20101112events.txt->9520       0631   ////      0640  SVI  C   RSP  025-041   III/1                 
+2010_events\20101112events.txt->9530       0701   ////      0701  SVI  C   RSP  025-048   III/1                 
+2010_events\20101112events.txt->9550       0853   ////      0901  LEA  C   RSP  025-180   III/2                 
+2010_events\20101112events.txt->9560       0920   ////      0921  LEA  C   RSP  025-179   III/2                 
+2010_events\20101112events.txt->9570       1102   ////      1103  SVI  C   RSP  025-075   III/1                 
+2010_events\20101112events.txt->9580       1131   ////      1131  SVI  C   RSP  025-070   III/1                 
+2010_events\20101112events.txt->9590       1146   ////      1149  SVI  C   RSP  025-063   III/1                 
+2010_events\20101112events.txt->9610       1153   ////      1154  SVI  C   RSP  025-082   III/1                 
+2010_events\20101112events.txt->9640 +     1448   ////      1448  SAG  C   RSP  025-065   III/1                 
+2010_events\20101112events.txt->9650 +     1727   ////      1730  PAL  C   RSP  025-096   III/1                 
+2010_events\20101112events.txt->9660       2258   ////      2258  LEA  C   RSP  025-168   III/1                 
+2010_events\20101112events.txt->9670       2357   ////      0007  LEA  C   RSP  025-113   III/1                 
+2010_events\20101113events.txt->9680       0323   ////      0326  LEA  C   RSP  025-176   III/1                 
+2010_events\20101113events.txt->9700       1026   ////      1026  SVI  C   RSP  025-082   III/1                 
+2010_events\20101113events.txt->9710       1130   ////      1137  SVI  C   RSP  025-129   III/2             1123
+2010_events\20101113events.txt->9730       1344   ////      1345  SVI  C   RSP  025-081   III/1                 
+2010_events\20101113events.txt->9740       1405   ////      1406  SVI  C   RSP  025-075   III/1                 
+2010_events\20101114events.txt->9920       0035   ////      0040  CUL  C   RSP  057-090   III/1                 
+2010_events\20101114events.txt->9930       0519   ////      0519  CUL  C   RSP  057-160   III/1                 
+2010_events\20101114events.txt->9940       0609   ////      0609  CUL  C   RSP  057-100   III/1                 
+2010_events\20101114events.txt->9870       1236   ////      1239  SVI  C   RSP  025-083   III/1                 
+2010_events\20101114events.txt->9890       1251   ////      1255  SVI  C   RSP  025-047   III/1                 
+2010_events\20101114events.txt->9900 +     1356   ////      1357  SAG  C   RSP  025-150   III/1                 
+2010_events\20101114events.txt->9950       2135   ////      2135  CUL  C   RSP  057-090   III/1                 
+2010_events\20101114events.txt->9960       2305   ////      2306  CUL  C   RSP  057-090   III/1                 
+2010_events\20101115events.txt->9970 +     0232   ////      0233  LEA  C   RSP  025-059   III/1                 
+2010_events\20101115events.txt->  10       0252   ////      0252  CUL  C   RSP  057-080   III/1                 
+2010_events\20101115events.txt->9980       0252   ////      0252  LEA  C   RSP  025-085   III/1                 
+2010_events\20101115events.txt->  20 +     0345   ////      0345  CUL  C   RSP  057-090   III/1             1124
+2010_events\20101115events.txt-> 230       0435   ////      0435  CUL  C   RSP  057-140   III/1                 
+2010_events\20101115events.txt-> 240       0448   ////      0448  CUL  C   RSP  057-100   III/1                 
+2010_events\20101115events.txt->  80       0655   ////      0655  SVI  U   RSP  025-038   III/1                 
+2010_events\20101115events.txt-> 100 +     0732   ////      0733  CUL  C   RSP  057-090   III/1             1124
+2010_events\20101115events.txt-> 170 +     1250   ////      1250  SAG  C   RSP  025-041   III/1                 
+2010_events\20101115events.txt-> 190       1438   ////      1439  SVI  C   RSP  025-075   III/1             1123
+2010_events\20101115events.txt-> 250       2051   ////      2101  CUL  C   RSP  057-140   III/1                 
+2010_events\20101115events.txt-> 220 +     2227   ////      2229  PAL  C   RSP  025-180   III/1             1126
+2010_events\20101115events.txt-> 260       2247   ////      2247  CUL  C   RSP  057-160   III/1                 
+2010_events\20101115events.txt-> 270 +     2316   ////      2318  LEA  C   RSP  025-180   III/1                 
+2010_events\20101116events.txt-> 280 +     0034   ////      0044  LEA  C   RSP  025-180   III/1             1126
+2010_events\20101116events.txt-> 290 +     0259   ////      0302  CUL  C   RSP  057-340   III/1             1123
+2010_events\20101116events.txt-> 310       0320   ////      0320  CUL  C   RSP  057-100   III/1                 
+2010_events\20101116events.txt-> 300 +     0325   ////      0328  LEA  C   RSP  025-111   III/1                 
+2010_events\20101116events.txt-> 320       0422   ////      0422  CUL  C   RSP  057-140   III/1                 
+2010_events\20101116events.txt-> 420       0532   ////      0532  CUL  C   RSP  057-090   III/1                 
+2010_events\20101116events.txt-> 430       0607   ////      0607  CUL  C   RSP  057-140   III/1                 
+2010_events\20101116events.txt-> 330       0607   ////      0607  LEA  C   RSP  025-102   III/1                 
+2010_events\20101116events.txt-> 340 +     0651   ////      0656  CUL  C   RSP  057-300   III/1                 
+2010_events\20101116events.txt-> 350 +     0711   ////      0714  LEA  C   RSP  025-180   III/2             1126
+2010_events\20101116events.txt-> 360       0732   ////      0732  SVI  C   RSP  025-038   III/1                 
+2010_events\20101116events.txt-> 370 +     0859   ////      0903  LEA  C   RSP  025-119   III/1                 
+2010_events\20101116events.txt-> 380 +     0953   ////      0954  LEA  C   RSP  025-163   III/1                 
+2010_events\20101116events.txt-> 390       1446   ////      1446  SAG  C   RSP  025-083   III/1                 
+2010_events\20101116events.txt-> 400       1907   ////      1907  SAG  C   RSP  025-046   III/1                 
+2010_events\20101116events.txt-> 410       1907   ////      1908  PAL  C   RSP  025-068   III/1                 
+2010_events\20101117events.txt-> 550       0157   ////      0157  CUL  C   RSP  057-090   III/1                 
+2010_events\20101117events.txt-> 560       0301   ////      0301  CUL  C   RSP  057-140   III/1                 
+2010_events\20101117events.txt-> 500       0431   ////      0438  LEA  C   RSP  025-180   III/2             1126
+2010_events\20101117events.txt-> 520       0604   ////      0604  LEA  C   RSP  104-180   III/1                 
+2010_events\20101117events.txt-> 530       0742   ////      0742  LEA  C   RSP  081-180   III/1                 
+2010_events\20101117events.txt-> 540 +     0808   ////      0810  LEA  C   RSP  040-097   III/1             1123
+2010_events\20101117events.txt-> 570       0939   ////      0945  LEA  C   RSP  077-180   III/2                 
+2010_events\20101117events.txt-> 610       1214   ////      1214  SAG  C   RSP  118-180   III/1                 
+2010_events\20101117events.txt-> 620       1214   ////      1214  SVI  C   RSP  028-151   III/1                 
+2010_events\20101117events.txt-> 640       1813   ////      1815  SAG  C   RSP  025-180   III/1                 
+2010_events\20101118events.txt-> 670       0415   ////      0415  LEA  C   RSP  036-058   III/1                 
+2010_events\20101118events.txt-> 800       0449   ////      0451  CUL  C   RSP  057-160   III/1                 
+2010_events\20101118events.txt-> 680 +     0449   ////      0454  LEA  C   RSP  025-180   III/2                 
+2010_events\20101118events.txt-> 700 +     0942   ////      0942  SVI  C   RSP  025-077   III/1                 
+2010_events\20101118events.txt-> 720       1051   ////      1052  SVI  C   RSP  025-160   III/1                 
+2010_events\20101118events.txt-> 730       1138   ////      1140  SVI  C   RSP  025-180   III/1             1124
+2010_events\20101118events.txt-> 760 +     1437   ////      1439  SAG  C   RSP  025-144   III/1                 
+2010_events\20101119events.txt-> 810       0136   ////      0136  CUL  C   RSP  057-090   III/1                 
+2010_events\20101119events.txt-> 830       0848   ////      0848  LEA  C   RSP  039-059   III/2                 
+2010_events\20101121events.txt-> 920 +     0903   ////      0903  SVI  C   RSP  034-084   III/1                 
+2010_events\20101125events.txt->1040       0731   ////      0732  CUL  C   RSP  057-090   III/1                 
+2010_events\20101125events.txt->1020       2059   ////      2059  CUL  C   RSP  057-090   III/1                 
+2010_events\20101126events.txt->1070 +     1940   ////      1941  PAL  C   RSP  025-052   III/1                 
+2010_events\20101128events.txt->1080 +     0115   ////      0116  LEA  C   RSP  025-061   III/1                 
+2010_events\20101128events.txt->1120       0116   ////      0116  CUL  C   RSP  057-080   III/1                 
+2010_events\20101128events.txt->1130       0430   ////      0430  CUL  C   RSP  057-090   III/1                 
+2010_events\20101128events.txt->1140       0710   ////      0712  CUL  C   RSP  057-090   III/1                 
+2010_events\20101128events.txt->1100       1146   ////      1146  SVI  C   RSP  028-065   III/1                 
+2010_events\20101129events.txt->1150 +     0021   ////      0024  LEA  C   RSP  025-089   III/1                 
+2010_events\20101129events.txt->1160 +     0121   ////      0121  LEA  C   RSP  025-180   III/1                 
+2010_events\20101129events.txt->1170       0311   ////      0314  LEA  C   RSP  025-058   III/1                 
+2010_events\20101129events.txt->1190       0531   ////      0532  CUL  C   RSP  057-090   III/1             1130
+2010_events\20101129events.txt->1260       0744   ////      0744  CUL  C   RSP  060-090   III/1                 
+2010_events\20101129events.txt->1210       0920   ////      0920  SVI  C   RSP  025-043   III/1             1130
+2010_events\20101130events.txt->1330 +     2001   ////      2001  PAL  C   RSP  025-146   III/1                 
+2010_events\20101201events.txt->1530       0002   ////      0002  CUL  C   RSP  057-090   III/1                 
+2010_events\20101201events.txt->1400 +     0204   ////      0207  LEA  C   RSP  025-110   III/1                 
+2010_events\20101201events.txt->1540       0217   ////      0217  CUL  C   RSP  057-120   III/1                 
+2010_events\20101201events.txt->1550       0354   ////      0400  CUL  C   RSP  057-170   III/1                 
+2010_events\20101201events.txt->1420       0426   ////      0427  CUL  C   RSP  057-130   III/1                 
+2010_events\20101201events.txt->1440 +     0614   ////      0615  LEA  C   RSP  025-153   III/1             1130
+2010_events\20101201events.txt->1480 +     1437   ////      1438  SVI  C   RSP  025-043   III/1                 
+2010_events\20101201events.txt->1490       1543   ////      1543  SAG  C   RSP  025-180   III/1                 
+2010_events\20101201events.txt->1560       2354   ////      2355  CUL  C   RSP  057-090   III/1                 
+2010_events\20101204events.txt->1650 +     0227   ////      0239  LEA  C   RSP  025-065   III/1                 
+2010_events\20101205events.txt->1780       1826   ////      1826  PAL  C   RSP  025-102   III/1                 
+2010_events\20101205events.txt->1790       1826   ////      1826  SAG  C   RSP  025-121   III/2                 
+2010_events\20101206events.txt->1890       0616   ////      0616  CUL  C   RSP  057-130   III/1                 
+2010_events\20101206events.txt->1900       2300   ////      2300  LEA  C   RSP  032-049   III/1                 
+2010_events\20101207events.txt->1940       0501   ////      0501  CUL  C   RSP  060-130   III/1                 
+2010_events\20101207events.txt->1920       0756   ////      0756  SVI  U   RSP  036-063   III/1                 
+2010_events\20101208events.txt->1970       1053   ////      1053  SVI  U   RSP  055-084   III/1                 
+2010_events\20101208events.txt->1990       1416   ////      1416  SAG  C   RSP  025-123   III/1                 
+2010_events\20101208events.txt->1980       1416   ////      1416  SVI  C   RSP  025-062   III/1                 
+2010_events\20101208events.txt->2000       1952   ////      1953  PAL  C   RSP  025-085   III/1                 
+2010_events\20101208events.txt->2010       1953   ////      1953  SAG  C   RSP  025-119   III/1                 
+2010_events\20101209events.txt->2020       0055   ////      0055  LEA  C   RSP  026-049   III/1                 
+2010_events\20101209events.txt->2060       1430   ////      1431  SAG  U   RSP  025-083   III/1                 
+2010_events\20101211events.txt->2090       0620   ////      0622  LEA  C   RSP  025-085   III/1                 
+2010_events\20101211events.txt->2100       1000   ////      1001  SVI  C   RSP  025-180   III/1                 
+2010_events\20101211events.txt->2110       1003   ////      1004  LEA  C   RSP  025-180   III/1                 
+2010_events\20101211events.txt->2130       1157   ////      1201  SVI  C   RSP  025-121   III/1                 
+2010_events\20101211events.txt->2140 +     1335   ////      1335  SVI  C   RSP  025-082   III/1                 
+2010_events\20101211events.txt->2150 +     1440   ////      1440  SAG  C   RSP  025-084   III/1                 
+2010_events\20101211events.txt->2160       1742   ////      1742  SAG  C   RSP  025-083   III/1                 
+2010_events\20101212events.txt->2290       0056   ////      0057  CUL  C   RSP  057-170   III/1                 
+2010_events\20101212events.txt->2180 +     0149   ////      0149  CUL  C   RSP  057-180   III/1                 
+2010_events\20101212events.txt->2300       0304   ////      0305  CUL  C   RSP  057-180   III/2                 
+2010_events\20101212events.txt->2190 +     0304   ////      0306  LEA  C   RSP  025-163   III/2                 
+2010_events\20101212events.txt->2200 +     0406   ////      0407  CUL  C   RSP  057-160   III/1                 
+2010_events\20101212events.txt->2210 +     0625   ////      0626  LEA  C   RSP  025-128   III/2                 
+2010_events\20101212events.txt->2220       0828   ////      0836  SVI  C   RSP  025-180   III/1                 
+2010_events\20101212events.txt->2250       1217   ////      1217  SAG  C   RSP  025-084   III/1                 
+2010_events\20101212events.txt->2230       1217   ////      1220  SVI  C   RSP  025-180   III/1                 
+2010_events\20101212events.txt->2270       1525   ////      1533  SAG  C   RSP  025-143   III/1                 
+2010_events\20101212events.txt->2320 +     2242   ////      2242  LEA  C   RSP  025-133   III/1                 
+2010_events\20101212events.txt->2330       2243   ////      2243  CUL  C   RSP  057-170   III/1                 
+2010_events\20101213events.txt->2340 +     0106   ////      0108  CUL  C   RSP  057-180   III/1                 
+2010_events\20101213events.txt->2350       0357   ////      0357  CUL  C   RSP  057-090   III/1                 
+2010_events\20101214events.txt->2380 +     0057   ////      0057  PAL  C   RSP  025-083   III/1                 
+2010_events\20101215events.txt->2400 +     0053   ////      0054  CUL  C   RSP  057-140   III/1                 
+2010_events\20101215events.txt->2410       0157   ////      0157  LEA  C   RSP  032-063   III/1                 
+2010_events\20101215events.txt->2420       0158   ////      0158  CUL  C   RSP  057-080   III/1                 
+2010_events\20101230events.txt->2680       0456   ////      0456  LEA  C   RSP  025-059   III/1                 
+2010_events\20101231events.txt->2730       1054   ////      1055  SVI  C   RSP  050-180   III/1                 

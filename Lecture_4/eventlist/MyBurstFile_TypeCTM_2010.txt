@@ -1,0 +1,27 @@
+2010_events\20100101events.txt  #Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+2010_events\20100206events.txt->6680       1300   ////      1601  SVI  C   RSP  115-180   CTM/1                 
+2010_events\20100206events.txt->6830       2224   ////      0440  LEA  U   RSP  025-180   CTM/1                 
+2010_events\20100207events.txt->7150       2028   ////      2130  CUL  C   RSP  18-180    CTM/1                 
+2010_events\20100208events.txt->7520       0459   ////      0558  LEA  U   RSP  043-131   CTM/1             1045
+2010_events\20100208events.txt->7540 +     0656   ////      1009  LEA  C   RSP  041-105   CTM/1             1045
+2010_events\20100314events.txt-> 720       0000   ////      0327  CUL  C   RSP  30-180    CTM/1             1054
+2010_events\20100314events.txt-> 780       0551   ////      0811  SVI  C   RSP  025-180   CTM/1                 
+2010_events\20100314events.txt-> 880       2017   ////      2113  SAG  U   RSP  032-084   CTM/1                 
+2010_events\20100315events.txt-> 970 +     1430   ////      1600  SVI  C   RSP  025-146   CTM/1                 
+2010_events\20100327events.txt->1900 +     1449   ////      0000  SAG  C   RSP  114-180   CTM/1                 
+2010_events\20100330events.txt->2480       0520   ////      1009  LEA  C   RSP  075-153   CTM/1                 
+2010_events\20100330events.txt->2490       0650   ////      1113  SVI  C   RSP  025-180   CTM/1                 
+2010_events\20100331events.txt->2620       1023   ////      1045  SVI  C   RSP  115-180   CTM/1                 
+2010_events\20100801events.txt->7270       1003   ////      1111  SAG  C   RSP  025-180   CTM/1                 
+2010_events\20100802events.txt->7490 +     0415   ////      0713  LEA  C   RSP  074-174   CTM/1                 
+2010_events\20100802events.txt->7650 +     1107   ////      1617  SVI  C   RSP  072-180   CTM/1                 
+2010_events\20100802events.txt->7710       1728   ////      1735  PAL  U   RSP  110-180   CTM/1             1092
+2010_events\20100803events.txt->7870 +     1151   ////      1354  SVI  C   RSP  075-156   CTM/1                 
+2010_events\20100803events.txt->8030       2231   ////      2319  CUL  C   RSP  57-180    CTM/1                 
+2010_events\20100804events.txt->8120 +     1540   ////      1621  SVI  C   RSP  114-180   CTM/1                 
+2010_events\20100804events.txt->8130       1625   ////      1654  PAL  C   RSP  069-180   CTM/1                 
+2010_events\20100908events.txt->3830       2325   ////      2335  LEA  U   RSP  033-050   CTM/1             1105
+2010_events\20100920events.txt->4900       0502   ////      0724  LEA  C   RSP  118-179   CTM/1                 
+2010_events\20100921events.txt->4990       0306   ////      0434  LEA  C   RSP  066-164   CTM/1                 
+2010_events\20100921events.txt->5010       0759   ////      0827  SVI  C   RSP  111-180   CTM/1                 
+2010_events\20100927events.txt->5540       1038   ////      1103  SVI  C   RSP  114-180   CTM/1                 
